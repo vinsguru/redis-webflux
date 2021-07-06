@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <!--------------------------------------------------------------------------------------------->
+
+    <title>Redis Chat Demo</title>
+</head>
+<body style="background-color: #E5E7E9;">
+
+
+<div class="container mt-5" >
+
+    <!-- Name Field -->
+    <div class="input-group mb-3" >
+        <span class="input-group-text" id="basic-addon1">Name</span>
+        <input type="text" class="form-control" placeholder="Name" id="name">
+    </div>
+
+    <!-- Room Field -->
+    <div class="input-group mb-3">
+        <span class="input-group-text" id="basic-addon1">Room</span>
+        <input type="text" class="form-control" placeholder="Room" id="room">
+    </div>
+
+    <!--
+        Start button should initiate websocket connection
+        You can add logic not to enable this button when one or both - name and room fields are blank
+     -->
+    <div class="mb-3" id="start-control">
+        <button class="form-control btn btn-secondary" type="button" id="start">Start</button>
+    </div>
+
+    <!--
+       Show this div only when start button is pressed.
+    -->
+
+    <div id="chat-div" class = "invisible">
+
+        <!-- All chat messages will be appended here -->
+
+        <div class="mb-3">
+            <label for="exampleFormControlTextarea1" class="form-label">Messages</label>
+            <div class="form-control overflow-auto" style="height:250px;" id="history">
+
+            </div>
+        </div>
+
+
+        <!-- Type your messages to be sent -->
+        <div class="input-group mb-3">
+            <input type="text" class="form-control" placeholder="Type your message here" id="message">
+            <button class="btn btn-secondary" type="button" id="send">Send</button>
+        </div>
+
+    </div>
+
+</div>
+
+<!-- Add the js to send and receive messages  -->
+
+<script>
+
+     // will be executed after pressing start button
+    const chatFunction = () => {
+
+
+      // elements
+      const name = document.getElementById('name').value;
+      const room = document.getElementById('room').value;
+      const history = document.getElementById('history');
+      const message = document.getElementById('message');
+      const send = document.getElementById('send');
+      const chatDiv = document.getElementById('chat-div');
+      const startControl = document.getElementById('start-control');
+
+
+      chatDiv.classList.remove("invisible");
+      startControl.classList.add("invisible");
+
+
+      // ws://localhost:8080/chat?room=some-name
+      const uri = `ws://${window.location.hostname}:${window.location.port}/chat?room=${room}`;
+
+      websocket = new WebSocket(uri);
+
+      // onmessage
+      // onopen
+      // onclose
+      /*
+          {
+            "sender":...
+            "message": ...
+          }
+      */
+
+      websocket.onmessage = (evt) => {
+          let obj = JSON.parse(evt.data);
+          let ele = document.createElement("p");
+          ele.innerHTML = `<b>${obj.sender}:</b>&nbsp; ${obj.message}`;
+          history.appendChild(ele);
+      }
+
+      websocket.onopen = (evt) => {
+          let ele = document.createElement("p");
+          ele.innerHTML = `<b>CONNECTED</b>`;
+          history.appendChild(ele);
+      }
+
+      websocket.onclose = (evt) => {
+          let ele = document.createElement("p");
+          ele.innerHTML = `<b>DISCONNECTED</b>`;
+          history.appendChild(ele);
+      }
+
+      const sendMessage = () => {
+          let obj = {
+            sender : name,
+            message : message.value
+          }
+          message.value = "";
+          websocket.send(JSON.stringify(obj));
+      }
+
+      send.addEventListener('click', sendMessage);
+
+    }
+
+    document.getElementById('start').addEventListener('click', chatFunction);
+
+
+
+
+
+    </script>
+
+<!--------------------------------------------------------------------------------------------->
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+</body>
+</html>
