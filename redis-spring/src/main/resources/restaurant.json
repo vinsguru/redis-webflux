@@ -1,0 +1,6482 @@
+[
+  {
+    "id": "AVwdhkOGByjofQCxp9qV",
+    "city": "Monahans",
+    "latitude": 31.580721,
+    "longitude": -102.891455,
+    "name": "Dairy Queen",
+    "zip": 79756
+  },
+  {
+    "id": "AVwc2ok4IN2L1WUfpnU2",
+    "city": "Mabank",
+    "latitude": 32.36602,
+    "longitude": -96.103364,
+    "name": "Dairy Queen",
+    "zip": 75147
+  },
+  {
+    "id": "AVwcplHhkufWRAb5xhgN",
+    "city": "Missouri City",
+    "latitude": 29.570079,
+    "longitude": -95.568166,
+    "name": "Dairy Queen",
+    "zip": 77459
+  },
+  {
+    "id": "AVwd1qaUIN2L1WUfzqmC",
+    "city": "Eastland",
+    "latitude": 32.401088,
+    "longitude": -98.790162,
+    "name": "Golden Chick",
+    "zip": 76448
+  },
+  {
+    "id": "AVwdZcGEkufWRAb55egc",
+    "city": "Wylie",
+    "latitude": 33.007329,
+    "longitude": -96.554127,
+    "name": "Taco Bell",
+    "zip": 75098
+  },
+  {
+    "id": "AVwdDkuikufWRAb5118z",
+    "city": "Tyler",
+    "latitude": 32.274786,
+    "longitude": -95.306757,
+    "name": "Taco Bell",
+    "zip": 75703
+  },
+  {
+    "id": "AVwdzKj-kufWRAb59W3R",
+    "city": "Arlington",
+    "latitude": 32.679467,
+    "longitude": -97.195027,
+    "name": "Boston Market",
+    "zip": 76016
+  },
+  {
+    "id": "AVwc7rRD_7pvs4fz0gYD",
+    "city": "Cypress",
+    "latitude": 29.88081,
+    "longitude": -95.683922,
+    "name": "Burger King",
+    "zip": 77433
+  },
+  {
+    "id": "AVwdtB5B_7pvs4fz8fs2",
+    "city": "El Paso",
+    "latitude": 31.88498,
+    "longitude": -106.418612,
+    "name": "Arby's",
+    "zip": 79924
+  },
+  {
+    "id": "AV0Z-6uGLD2H7whiZSdp",
+    "city": "Wharton",
+    "latitude": 29.33102,
+    "longitude": -96.09457,
+    "name": "Pizza Hut",
+    "zip": 77488
+  },
+  {
+    "id": "AVwdjKDekufWRAb56-9j",
+    "city": "Denison",
+    "latitude": 33.762134,
+    "longitude": -96.581587,
+    "name": "Burger King",
+    "zip": 75020
+  },
+  {
+    "id": "AVwdNGjfkufWRAb53aOE",
+    "city": "Penitas",
+    "latitude": 26.243395,
+    "longitude": -98.4423,
+    "name": "McDonald's",
+    "zip": 78576
+  },
+  {
+    "id": "AVweOyq2_7pvs4fzBL9r",
+    "city": "Eagle Pass",
+    "latitude": 28.70574,
+    "longitude": -100.48395,
+    "name": "Burger King",
+    "zip": 78852
+  },
+  {
+    "id": "AVweNjQqkufWRAb5A-DY",
+    "city": "Del Rio",
+    "latitude": 29.38843,
+    "longitude": -100.90521,
+    "name": "Chick-Fil-A",
+    "zip": 78840
+  },
+  {
+    "id": "AVwc7EDPkufWRAb50dfh",
+    "city": "Bryan",
+    "latitude": 30.69488984,
+    "longitude": -96.36236943,
+    "name": "Burger King",
+    "zip": 77803
+  },
+  {
+    "id": "AVwdRrGIkufWRAb54Mhp",
+    "city": "Cleburne",
+    "latitude": 32.342149,
+    "longitude": -97.402765,
+    "name": "Schlotzsky's",
+    "zip": 76033
+  },
+  {
+    "id": "AVwdjmRT_7pvs4fz7DIl",
+    "city": "Burleson",
+    "latitude": 32.563248,
+    "longitude": -97.322393,
+    "name": "Arby's",
+    "zip": 76028
+  },
+  {
+    "id": "AVwdhNy-IN2L1WUfwnM-",
+    "city": "Burleson",
+    "latitude": 32.566362,
+    "longitude": -97.319315,
+    "name": "Chick-Fil-A",
+    "zip": 76028
+  },
+  {
+    "id": "AVwc7Eb2ByjofQCxjqhl",
+    "city": "Bellaire",
+    "latitude": 29.70529415,
+    "longitude": -95.4730184,
+    "name": "Burger King",
+    "zip": 77401
+  },
+  {
+    "id": "AVwecJov_7pvs4fzC_oB",
+    "city": "Abilene",
+    "latitude": 32.405234,
+    "longitude": -99.764985,
+    "name": "Arby's",
+    "zip": 79606
+  },
+  {
+    "id": "AVwd51-akufWRAb5-Q4x",
+    "city": "Beeville",
+    "latitude": 28.421414,
+    "longitude": -97.756843,
+    "name": "Golden Chick",
+    "zip": 78102
+  },
+  {
+    "id": "AVwdw00N_7pvs4fz9C1Q",
+    "city": "Pettus",
+    "latitude": 28.847141,
+    "longitude": -97.44154,
+    "name": "Dairy Queen",
+    "zip": 78146
+  },
+  {
+    "id": "AV1c6_eS3-Khe5l_MMTW",
+    "city": "Sinton",
+    "latitude": 28.03704,
+    "longitude": -97.51219,
+    "name": "Pizza Hut",
+    "zip": 78387
+  },
+  {
+    "id": "AV5UUkfva4HuVbedCfiY",
+    "city": "Angleton",
+    "latitude": 29.18105,
+    "longitude": -95.44666,
+    "name": "Chicken Express",
+    "zip": 77515
+  },
+  {
+    "id": "AV1ZOfgv-gnIPe8DWzZ0",
+    "city": "Alice",
+    "latitude": 27.75366,
+    "longitude": -98.06131,
+    "name": "Big House Burgers",
+    "zip": 78332
+  },
+  {
+    "id": "AVwd7yc__7pvs4fz-jh5",
+    "city": "Van",
+    "latitude": 32.499851,
+    "longitude": -95.596225,
+    "name": "Dairy Queen",
+    "zip": 75790
+  },
+  {
+    "id": "AVwd7yc__7pvs4fz-jh5",
+    "city": "Van",
+    "latitude": 32.499851,
+    "longitude": -95.596225,
+    "name": "Dairy Queen",
+    "zip": 75790
+  },
+  {
+    "id": "AVwdOz9n_7pvs4fz3qd8",
+    "city": "Tivoli",
+    "latitude": 28.453429,
+    "longitude": -96.888108,
+    "name": "Dairy Queen",
+    "zip": 77990
+  },
+  {
+    "id": "AVwdBnojIN2L1WUfrbd5",
+    "city": "Rusk",
+    "latitude": 31.802884,
+    "longitude": -95.148673,
+    "name": "Dairy Queen",
+    "zip": 75785
+  },
+  {
+    "id": "AVwdnXcZByjofQCxq3PJ",
+    "city": "Borger",
+    "latitude": 35.663865,
+    "longitude": -101.389964,
+    "name": "Dairy Queen",
+    "zip": 79007
+  },
+  {
+    "id": "AVweKoosIN2L1WUf2kRf",
+    "city": "San Marcos",
+    "latitude": 29.689434,
+    "longitude": -97.667085,
+    "name": "Dairy Queen",
+    "zip": 78666
+  },
+  {
+    "id": "AVwcu3XskufWRAb5ya0t",
+    "city": "San Antonio",
+    "latitude": 29.42306,
+    "longitude": -98.484173,
+    "name": "Dairy Queen",
+    "zip": 78205
+  },
+  {
+    "id": "AVweNEi3IN2L1WUf25oa",
+    "city": "San Antonio",
+    "latitude": 29.351346,
+    "longitude": -98.458339,
+    "name": "Dairy Queen",
+    "zip": 78223
+  },
+  {
+    "id": "AVz541kfFcQ3k02bDfCc",
+    "city": "Conroe",
+    "latitude": 30.338972,
+    "longitude": -95.452562,
+    "name": "Taco Cabana",
+    "zip": 77304
+  },
+  {
+    "id": "AVwd7--G_7pvs4fz-lHy",
+    "city": "Paris",
+    "latitude": 33.66189,
+    "longitude": -95.506573,
+    "name": "Chicken Express",
+    "zip": 75462
+  },
+  {
+    "id": "AVwde5co_7pvs4fz6VSM",
+    "city": "North Richland Hills",
+    "latitude": 32.840958,
+    "longitude": -97.21383,
+    "name": "Chicken Express",
+    "zip": 76180
+  },
+  {
+    "id": "AVzA9J4Y-gnIPe8DSevp",
+    "city": "Little Elm",
+    "latitude": 33.154826,
+    "longitude": -96.946861,
+    "name": "Chicken Express",
+    "zip": 75068
+  },
+  {
+    "id": "AVwdwmeUkufWRAb58_yv",
+    "city": "Lubbock",
+    "latitude": 33.59233,
+    "longitude": -101.914511,
+    "name": "Chicken Express",
+    "zip": 79416
+  },
+  {
+    "id": "AVwdWObIIN2L1WUfu3TA",
+    "city": "Keller",
+    "latitude": 32.934361,
+    "longitude": -97.236057,
+    "name": "Chicken Express",
+    "zip": 76248
+  },
+  {
+    "id": "AV1b-Fv_3D1zeR_xFcUR",
+    "city": "Hamilton",
+    "latitude": 31.721935,
+    "longitude": -98.118673,
+    "name": "Chicken Express",
+    "zip": 76531
+  },
+  {
+    "id": "AV0BTk-fFcQ3k02bDmUF",
+    "city": "Gainesville",
+    "latitude": 33.636432,
+    "longitude": -97.133305,
+    "name": "Chicken Express",
+    "zip": 76240
+  },
+  {
+    "id": "AVwdwFK1kufWRAb587E5",
+    "city": "Eastland",
+    "latitude": 32.401465,
+    "longitude": -98.791001,
+    "name": "Chicken Express",
+    "zip": 76448
+  },
+  {
+    "id": "AV1beAXp-gnIPe8DXAoT",
+    "city": "La Grange",
+    "latitude": 29.905505,
+    "longitude": -96.876605,
+    "name": "Subway",
+    "zip": 78945
+  },
+  {
+    "id": "AVweBtV4_7pvs4fz_Y7f",
+    "city": "San Diego",
+    "latitude": 27.761418,
+    "longitude": -98.22821,
+    "name": "Subway",
+    "zip": 78384
+  },
+  {
+    "id": "AVwcgfT6IN2L1WUflszi",
+    "city": "Temple",
+    "latitude": 31.069841,
+    "longitude": -97.369331,
+    "name": "Auntie Anne's Pretzels",
+    "zip": 76502
+  },
+  {
+    "id": "AV12iHYlRxPSIh2RcSoq",
+    "city": "Red Oak",
+    "latitude": 32.560257,
+    "longitude": -96.823426,
+    "name": "Whataburger",
+    "zip": 75154
+  },
+  {
+    "id": "AVwc4orSIN2L1WUfp8l8",
+    "city": "Uvalde",
+    "latitude": 29.21207,
+    "longitude": -99.778349,
+    "name": "Burger King",
+    "zip": 78801
+  },
+  {
+    "id": "AVwcq6-SIN2L1WUfnl1t",
+    "city": "Sherman",
+    "latitude": 33.645878,
+    "longitude": -96.612181,
+    "name": "Burger King",
+    "zip": 75090
+  },
+  {
+    "id": "AVwdlrR1ByjofQCxqmMR",
+    "city": "McKinney",
+    "latitude": 33.158926,
+    "longitude": -96.680845,
+    "name": "McDonald's",
+    "zip": 75070
+  },
+  {
+    "id": "AVwdHiXx_7pvs4fz2cMh",
+    "city": "Converse",
+    "latitude": 29.497846,
+    "longitude": -98.320015,
+    "name": "Long John Silver's",
+    "zip": 78109
+  },
+  {
+    "id": "AWAJST-XIxWefVJwuOdr",
+    "city": "South Padre Island",
+    "latitude": 26.097551,
+    "longitude": -97.165667,
+    "name": "Long John Silver's",
+    "zip": 78597
+  },
+  {
+    "id": "AVwdnlAeIN2L1WUfxmSy",
+    "city": "Spring",
+    "latitude": 30.022185,
+    "longitude": -95.520915,
+    "name": "Long John Silver's",
+    "zip": 77379
+  },
+  {
+    "id": "AVwd0b4JIN2L1WUfzf1i",
+    "city": "Corpus Christi",
+    "latitude": 27.685067,
+    "longitude": -97.382946,
+    "name": "Long John Silver's",
+    "zip": 78414
+  },
+  {
+    "id": "AVwdF5kCkufWRAb52N2I",
+    "city": "League City",
+    "latitude": 29.468446,
+    "longitude": -95.092203,
+    "name": "Panda Express",
+    "zip": 77573
+  },
+  {
+    "id": "AVwdvO6HkufWRAb58zBp",
+    "city": "Fort Worth",
+    "latitude": 32.633972,
+    "longitude": -97.369888,
+    "name": "Panda Express",
+    "zip": 76133
+  },
+  {
+    "id": "AVwdtFs9kufWRAb58fv5",
+    "city": "Houston",
+    "latitude": 29.677586,
+    "longitude": -95.642733,
+    "name": "Panda Express",
+    "zip": 77083
+  },
+  {
+    "id": "AVwcoLqS_7pvs4fzxOM2",
+    "city": "Dallas",
+    "latitude": 32.891535,
+    "longitude": -97.042423,
+    "name": "Panda Express",
+    "zip": 75211
+  },
+  {
+    "id": "AVwckTkOIN2L1WUfmaMf",
+    "city": "Austin",
+    "latitude": 30.403622,
+    "longitude": -97.672028,
+    "name": "Panda Express",
+    "zip": 78753
+  },
+  {
+    "id": "AVwckTkOIN2L1WUfmaMf",
+    "city": "Austin",
+    "latitude": 30.403622,
+    "longitude": -97.672028,
+    "name": "Panda Express",
+    "zip": 78753
+  },
+  {
+    "id": "AVwdvZJ1_7pvs4fz81Rj",
+    "city": "Austin",
+    "latitude": 30.418152,
+    "longitude": -97.702115,
+    "name": "Panda Express",
+    "zip": 78727
+  },
+  {
+    "id": "AVwdizvvByjofQCxqJzy",
+    "city": "Bedford",
+    "latitude": 32.836537,
+    "longitude": -97.131662,
+    "name": "Einstein Bros Bagels",
+    "zip": 76022
+  },
+  {
+    "id": "AVwdLohwByjofQCxmXDc",
+    "city": "Sachse",
+    "latitude": 32.978659,
+    "longitude": -96.591288,
+    "name": "Subway",
+    "zip": 75048
+  },
+  {
+    "id": "AVwdFauwByjofQCxlV3D",
+    "city": "Arlington",
+    "latitude": 32.643919,
+    "longitude": -97.075422,
+    "name": "Subway",
+    "zip": 76018
+  },
+  {
+    "id": "AV1XWxaZ-gnIPe8DWunp",
+    "city": "Cuero",
+    "latitude": 29.091554,
+    "longitude": -97.284129,
+    "name": "Subway",
+    "zip": 77954
+  },
+  {
+    "id": "AVwdLH4EByjofQCxmRDm",
+    "city": "Amarillo",
+    "latitude": 35.161595,
+    "longitude": -101.90514,
+    "name": "Subway",
+    "zip": 79109
+  },
+  {
+    "id": "AVwdNmfqByjofQCxmsBu",
+    "city": "Waco",
+    "latitude": 31.53293,
+    "longitude": -97.19316,
+    "name": "Subway",
+    "zip": 76710
+  },
+  {
+    "id": "AVwcozbI_7pvs4fzxVNk",
+    "city": "Weatherford",
+    "latitude": 32.735363,
+    "longitude": -97.769207,
+    "name": "Subway",
+    "zip": 76087
+  },
+  {
+    "id": "AVwchBwe_7pvs4fzv7ji",
+    "city": "Midland",
+    "latitude": 32.003568,
+    "longitude": -102.13702,
+    "name": "Arby's",
+    "zip": 79707
+  },
+  {
+    "id": "AVwdHxMOkufWRAb52hCA",
+    "city": "Lubbock",
+    "latitude": 33.548206,
+    "longitude": -101.885068,
+    "name": "Arby's",
+    "zip": 79413
+  },
+  {
+    "id": "AVwc3q9ZIN2L1WUfpyq2",
+    "city": "Humble",
+    "latitude": 29.998212,
+    "longitude": -95.18681,
+    "name": "Arby's",
+    "zip": 77346
+  },
+  {
+    "id": "AVwdDehdkufWRAb5101M",
+    "city": "Grapevine",
+    "latitude": 32.927231,
+    "longitude": -97.087478,
+    "name": "Arby's",
+    "zip": 76051
+  },
+  {
+    "id": "AVwdEhqOIN2L1WUfr6aE",
+    "city": "Cleveland",
+    "latitude": 30.35479,
+    "longitude": -95.091272,
+    "name": "Arby's",
+    "zip": 77328
+  },
+  {
+    "id": "AVzA9pcOFcQ3k02bBZyK",
+    "city": "Spring",
+    "latitude": 30.10386,
+    "longitude": -95.396513,
+    "name": "Arby's",
+    "zip": 77386
+  },
+  {
+    "id": "AV454mACRxPSIh2RfOWZ",
+    "city": "Austin",
+    "latitude": 30.22325,
+    "longitude": -97.844193,
+    "name": "Panera Bread",
+    "zip": 78749
+  },
+  {
+    "id": "AVweSBiS_7pvs4fzBn0u",
+    "city": "Houston",
+    "latitude": 29.829027,
+    "longitude": -95.38047213,
+    "name": "Chick-fil-A",
+    "zip": 77022
+  },
+  {
+    "id": "AVwdYcv0kufWRAb55UBx",
+    "city": "Bridge City",
+    "latitude": 30.023985,
+    "longitude": -93.843028,
+    "name": "Taco Bell",
+    "zip": 77611
+  },
+  {
+    "id": "AVzA9RFr-gnIPe8DSe3l",
+    "city": "Fort Worth",
+    "latitude": 32.809844,
+    "longitude": -97.425247,
+    "name": "Taco Bell",
+    "zip": 76135
+  },
+  {
+    "id": "AVwd0HEBkufWRAb59fMQ",
+    "city": "Beaumont",
+    "latitude": 30.080429,
+    "longitude": -94.163022,
+    "name": "Taco Bell",
+    "zip": 77706
+  },
+  {
+    "id": "AVwd0HEBkufWRAb59fMQ",
+    "city": "Beaumont",
+    "latitude": 30.080429,
+    "longitude": -94.163022,
+    "name": "Taco Bell",
+    "zip": 77706
+  },
+  {
+    "id": "AVwd0HEBkufWRAb59fMQ",
+    "city": "Beaumont",
+    "latitude": 30.080429,
+    "longitude": -94.163022,
+    "name": "Taco Bell",
+    "zip": 77706
+  },
+  {
+    "id": "AVwctM62ByjofQCxhSM4",
+    "city": "Grand Prairie",
+    "latitude": 32.746398,
+    "longitude": -96.994926,
+    "name": "Taco Bell",
+    "zip": 75050
+  },
+  {
+    "id": "AVwdRO6E_7pvs4fz4GS7",
+    "city": "Hurst",
+    "latitude": 32.823978,
+    "longitude": -97.185513,
+    "name": "Taco Bell",
+    "zip": 76053
+  },
+  {
+    "id": "AVwdHDUwkufWRAb52Zp4",
+    "city": "Fort Worth",
+    "latitude": 32.853765,
+    "longitude": -97.361343,
+    "name": "Taco Casa",
+    "zip": 76179
+  },
+  {
+    "id": "AVwdHDUwkufWRAb52Zp4",
+    "city": "Fort Worth",
+    "latitude": 32.853765,
+    "longitude": -97.361343,
+    "name": "Taco Casa",
+    "zip": 76179
+  },
+  {
+    "id": "AVwecL1RByjofQCxyOOi",
+    "city": "Conroe",
+    "latitude": 30.319089,
+    "longitude": -95.481156,
+    "name": "Taco Bueno",
+    "zip": 77304
+  },
+  {
+    "id": "AVwcu0WZByjofQCxhj4F",
+    "city": "Grand Prairie",
+    "latitude": 32.794348,
+    "longitude": -97.055778,
+    "name": "Taco Bueno",
+    "zip": 75050
+  },
+  {
+    "id": "AVwcnmUDkufWRAb5xMML",
+    "city": "Richardson",
+    "latitude": 32.94552,
+    "longitude": -96.685192,
+    "name": "Taco Bueno",
+    "zip": 75081
+  },
+  {
+    "id": "AVwd7G0AByjofQCxtsje",
+    "city": "Rockwall",
+    "latitude": 32.900201,
+    "longitude": -96.463424,
+    "name": "Taco Bueno",
+    "zip": 75087
+  },
+  {
+    "id": "AVwck7zUkufWRAb5wtg9",
+    "city": "Mesquite",
+    "latitude": 32.768568,
+    "longitude": -96.624217,
+    "name": "Taco Bueno",
+    "zip": 75149
+  },
+  {
+    "id": "AVwck7zUkufWRAb5wtg9",
+    "city": "Mesquite",
+    "latitude": 32.768568,
+    "longitude": -96.624217,
+    "name": "Taco Bueno",
+    "zip": 75149
+  },
+  {
+    "id": "AVwck7zUkufWRAb5wtg9",
+    "city": "Mesquite",
+    "latitude": 32.768568,
+    "longitude": -96.624217,
+    "name": "Taco Bueno",
+    "zip": 75149
+  },
+  {
+    "id": "AVwcjazvkufWRAb5wcpR",
+    "city": "Mesquite",
+    "latitude": 32.810431,
+    "longitude": -96.616262,
+    "name": "Taco Bueno",
+    "zip": 75150
+  },
+  {
+    "id": "AVwd8Z6X_7pvs4fz-oxS",
+    "city": "Dallas",
+    "latitude": 32.90889,
+    "longitude": -96.770346,
+    "name": "Taco Bueno",
+    "zip": 75230
+  },
+  {
+    "id": "AVwd_9YQIN2L1WUf1FrV",
+    "city": "Dallas",
+    "latitude": 32.931377,
+    "longitude": -96.812025,
+    "name": "Taco Bueno",
+    "zip": 75240
+  },
+  {
+    "id": "AVwdGcWUkufWRAb52TpN",
+    "city": "Longview",
+    "latitude": 32.538461,
+    "longitude": -94.73168,
+    "name": "Taco Bueno",
+    "zip": 75605
+  },
+  {
+    "id": "AVwei6MBkufWRAb5D8ZR",
+    "city": "Wichita Falls",
+    "latitude": 33.863543,
+    "longitude": -98.535882,
+    "name": "Taco Bueno",
+    "zip": 76308
+  },
+  {
+    "id": "AWAFX-XfRxPSIh2RogFc",
+    "city": "Weatherford",
+    "latitude": 32.750332,
+    "longitude": -97.724647,
+    "name": "Whataburger",
+    "zip": 76087
+  },
+  {
+    "id": "AVwdeN-I_7pvs4fz6PQB",
+    "city": "Wichita Falls",
+    "latitude": 33.87679,
+    "longitude": -98.547802,
+    "name": "Whataburger",
+    "zip": 76308
+  },
+  {
+    "id": "AV0Z6Z3SLD2H7whiZPo0",
+    "city": "Waco",
+    "latitude": 31.60335,
+    "longitude": -97.101451,
+    "name": "Whataburger",
+    "zip": 76705
+  },
+  {
+    "id": "AVwchmvi_7pvs4fzwCkj",
+    "city": "Tyler",
+    "latitude": 32.329814,
+    "longitude": -95.290528,
+    "name": "Whataburger",
+    "zip": 75701
+  },
+  {
+    "id": "AV1b9CEMLD2H7whiajLR",
+    "city": "Victoria",
+    "latitude": 28.805734,
+    "longitude": -96.999285,
+    "name": "Whataburger",
+    "zip": 77901
+  },
+  {
+    "id": "AVwdcjssIN2L1WUfv6Lf",
+    "city": "Carrollton",
+    "latitude": 33.000362,
+    "longitude": -96.884071,
+    "name": "Taco Bueno",
+    "zip": 75007
+  },
+  {
+    "id": "AVwcgOT__7pvs4fzvx7t",
+    "city": "Houston",
+    "latitude": 29.737651,
+    "longitude": -95.504136,
+    "name": "Boston Market",
+    "zip": 77063
+  },
+  {
+    "id": "AVwdibh1_7pvs4fz63z1",
+    "city": "Houston",
+    "latitude": 29.689257,
+    "longitude": -95.458159,
+    "name": "Boston Market",
+    "zip": 77096
+  },
+  {
+    "id": "AVwdl0GnkufWRAb57Y3V",
+    "city": "Houston",
+    "latitude": 29.909558,
+    "longitude": -95.584175,
+    "name": "Boston Market",
+    "zip": 77065
+  },
+  {
+    "id": "AVwc7oIMIN2L1WUfqdro",
+    "city": "Houston",
+    "latitude": 29.77289,
+    "longitude": -95.562418,
+    "name": "Einstein Bros Bagels",
+    "zip": 77024
+  },
+  {
+    "id": "AVwdOSa7kufWRAb53m5f",
+    "city": "Southlake",
+    "latitude": 32.940952,
+    "longitude": -97.126762,
+    "name": "Pei Wei",
+    "zip": 76092
+  },
+  {
+    "id": "AVwdmR6EIN2L1WUfxZfQ",
+    "city": "Houston",
+    "latitude": 29.9294,
+    "longitude": -95.590733,
+    "name": "Pei Wei",
+    "zip": 77065
+  },
+  {
+    "id": "AVwc01coIN2L1WUfpURQ",
+    "city": "Burleson",
+    "latitude": 32.569116,
+    "longitude": -97.319307,
+    "name": "Charley's Grilled Subs",
+    "zip": 76028
+  },
+  {
+    "id": "AVz1rGhI-gnIPe8DUYT3",
+    "city": "Houston",
+    "latitude": 29.985963,
+    "longitude": -95.336909,
+    "name": "Subway",
+    "zip": 77032
+  },
+  {
+    "id": "AVweJNPwkufWRAb5AYBO",
+    "city": "Houston",
+    "latitude": 29.75644,
+    "longitude": -95.367738,
+    "name": "Subway",
+    "zip": 77002
+  },
+  {
+    "id": "AVzA9oKHLD2H7whiWHu4",
+    "city": "Houston",
+    "latitude": 29.723702,
+    "longitude": -95.419112,
+    "name": "Subway",
+    "zip": 77005
+  },
+  {
+    "id": "AVwdMJyekufWRAb53PmU",
+    "city": "Houston",
+    "latitude": 29.659316,
+    "longitude": -95.508549,
+    "name": "Subway",
+    "zip": 77096
+  },
+  {
+    "id": "AVwc7PcV_7pvs4fz0b16",
+    "city": "San Antonio",
+    "latitude": 29.516969,
+    "longitude": -98.499215,
+    "name": "Subway",
+    "zip": 78216
+  },
+  {
+    "id": "AVwdOuNG_7pvs4fz3piO",
+    "city": "Fort Worth",
+    "latitude": 32.860374,
+    "longitude": -97.313083,
+    "name": "Quiznos Sub",
+    "zip": 76137
+  },
+  {
+    "id": "AVweIIM9IN2L1WUf2OJn",
+    "city": "Houston",
+    "latitude": 29.736944,
+    "longitude": -95.517753,
+    "name": "Chick-fil-A",
+    "zip": 77063
+  },
+  {
+    "id": "AV0Z9Djf-gnIPe8DVrKY",
+    "city": "Abilene",
+    "latitude": 32.451319,
+    "longitude": -99.780855,
+    "name": "Taco Bell",
+    "zip": 79605
+  },
+  {
+    "id": "AVwebH5HByjofQCxyEAX",
+    "city": "Dallas",
+    "latitude": 32.66235,
+    "longitude": -96.890538,
+    "name": "Taco Bell",
+    "zip": 75237
+  },
+  {
+    "id": "AV1XW_d_LD2H7whiaTAX",
+    "city": "Killeen",
+    "latitude": 31.095156,
+    "longitude": -97.805963,
+    "name": "Taco Bell",
+    "zip": 76549
+  },
+  {
+    "id": "AV1XW_d_LD2H7whiaTAX",
+    "city": "Killeen",
+    "latitude": 31.095156,
+    "longitude": -97.805963,
+    "name": "Taco Bell",
+    "zip": 76549
+  },
+  {
+    "id": "AVwc_hQfByjofQCxkYXX",
+    "city": "Cleburne",
+    "latitude": 32.345524,
+    "longitude": -97.394348,
+    "name": "Taco Bell",
+    "zip": 76033
+  },
+  {
+    "id": "AVwc_hQfByjofQCxkYXX",
+    "city": "Cleburne",
+    "latitude": 32.345524,
+    "longitude": -97.394348,
+    "name": "Taco Bell",
+    "zip": 76033
+  },
+  {
+    "id": "AVwc_hQfByjofQCxkYXX",
+    "city": "Cleburne",
+    "latitude": 32.345524,
+    "longitude": -97.394348,
+    "name": "Taco Bell",
+    "zip": 76033
+  },
+  {
+    "id": "AVwclMp3_7pvs4fzwsGl",
+    "city": "Houston",
+    "latitude": 29.879823,
+    "longitude": -95.646706,
+    "name": "Panera Bread",
+    "zip": 77095
+  },
+  {
+    "id": "AVwdDAVLIN2L1WUfrp-j",
+    "city": "Winnsboro",
+    "latitude": 32.957748,
+    "longitude": -95.29271,
+    "name": "Subway",
+    "zip": 75494
+  },
+  {
+    "id": "AVwdJNgvkufWRAb52vTE",
+    "city": "Pasadena",
+    "latitude": 29.681262,
+    "longitude": -95.150041,
+    "name": "Subway",
+    "zip": 77503
+  },
+  {
+    "id": "AVwdIe9V_7pvs4fz2lRH",
+    "city": "Paris",
+    "latitude": 33.661885,
+    "longitude": -95.505586,
+    "name": "Subway",
+    "zip": 75462
+  },
+  {
+    "id": "AV12f6bGa4HuVbed8_jQ",
+    "city": "Snyder",
+    "latitude": 32.702835,
+    "longitude": -100.919222,
+    "name": "Subway",
+    "zip": 79549
+  },
+  {
+    "id": "AVwdhLwXIN2L1WUfwm1m",
+    "city": "Princeton",
+    "latitude": 33.17503,
+    "longitude": -96.503191,
+    "name": "Subway",
+    "zip": 75407
+  },
+  {
+    "id": "AVwciMKLByjofQCxfTiZ",
+    "city": "Weatherford",
+    "latitude": 32.750332,
+    "longitude": -97.724647,
+    "name": "Subway",
+    "zip": 76087
+  },
+  {
+    "id": "AVwdPp4I_7pvs4fz3z_m",
+    "city": "Abilene",
+    "latitude": 32.432227,
+    "longitude": -99.756147,
+    "name": "Subway",
+    "zip": 79605
+  },
+  {
+    "id": "AVwdNoau_7pvs4fz3dkD",
+    "city": "Houston",
+    "latitude": 29.936407,
+    "longitude": -95.483312,
+    "name": "Pizza Inn",
+    "zip": 77086
+  },
+  {
+    "id": "AVwdLSXGkufWRAb53Fki",
+    "city": "McAllen",
+    "latitude": 26.218916,
+    "longitude": -98.227419,
+    "name": "Starbucks Coffee",
+    "zip": 78501
+  },
+  {
+    "id": "AVwcjTXIByjofQCxfhHK",
+    "city": "Lubbock",
+    "latitude": 33.592101,
+    "longitude": -101.922415,
+    "name": "Starbucks Coffee",
+    "zip": 79416
+  },
+  {
+    "id": "AVwdMzN4_7pvs4fz3Uw7",
+    "city": "Houston",
+    "latitude": 29.79061,
+    "longitude": -95.16056,
+    "name": "Domino's Pizza",
+    "zip": 77015
+  },
+  {
+    "id": "AVwckuEYByjofQCxfyMa",
+    "city": "Waco",
+    "latitude": 31.533789,
+    "longitude": -97.19003,
+    "name": "Domino's Pizza",
+    "zip": 76710
+  },
+  {
+    "id": "AVwd4SJykufWRAb5-DBk",
+    "city": "Dallas",
+    "latitude": 32.925415,
+    "longitude": -96.88151,
+    "name": "Domino's Pizza",
+    "zip": 75234
+  },
+  {
+    "id": "AVwcoVM-ByjofQCxgbwK",
+    "city": "Sulphur Springs",
+    "latitude": 33.1155,
+    "longitude": -95.5964,
+    "name": "Domino's Pizza",
+    "zip": 75482
+  },
+  {
+    "id": "AVwcsgKf_7pvs4fzx92J",
+    "city": "Corpus Christi",
+    "latitude": 27.84643,
+    "longitude": -97.58741,
+    "name": "Domino's Pizza",
+    "zip": 78410
+  },
+  {
+    "id": "AVwcviNp_7pvs4fzyetL",
+    "city": "Dallas",
+    "latitude": 32.897366,
+    "longitude": -96.7687,
+    "name": "Domino's Pizza",
+    "zip": 75231
+  },
+  {
+    "id": "AVwdG57NkufWRAb52YPb",
+    "city": "Houston",
+    "latitude": 29.6112,
+    "longitude": -95.2281,
+    "name": "Domino's Pizza",
+    "zip": 77089
+  },
+  {
+    "id": "AV1b_HR_FcQ3k02bF_v0",
+    "city": "Sweetwater",
+    "latitude": 32.4596,
+    "longitude": -100.401,
+    "name": "Domino's Pizza",
+    "zip": 79556
+  },
+  {
+    "id": "AVwdcZ3eByjofQCxpLuV",
+    "city": "Fort Worth",
+    "latitude": 32.82272,
+    "longitude": -97.05834,
+    "name": "Golden Chick",
+    "zip": 76155
+  },
+  {
+    "id": "AVwc0w-B_7pvs4fzzXHb",
+    "city": "Houston",
+    "latitude": 29.773526,
+    "longitude": -95.307955,
+    "name": "Burger King",
+    "zip": 77020
+  },
+  {
+    "id": "AVwdBicikufWRAb51gjU",
+    "city": "Houston",
+    "latitude": 29.736929,
+    "longitude": -95.532705,
+    "name": "Burger King",
+    "zip": 77063
+  },
+  {
+    "id": "AVwcl0IOkufWRAb5w3xM",
+    "city": "Houston",
+    "latitude": 29.699264,
+    "longitude": -95.517227,
+    "name": "Burger King",
+    "zip": 77074
+  },
+  {
+    "id": "AVwcl0IOkufWRAb5w3xM",
+    "city": "Houston",
+    "latitude": 29.699264,
+    "longitude": -95.517227,
+    "name": "Burger King",
+    "zip": 77074
+  },
+  {
+    "id": "AVwc7W2B_7pvs4fz0dDh",
+    "city": "Houston",
+    "latitude": 29.688837,
+    "longitude": -95.644394,
+    "name": "Burger King",
+    "zip": 77083
+  },
+  {
+    "id": "AVwdEoPPIN2L1WUfr7fs",
+    "city": "Mabank",
+    "latitude": 32.330925,
+    "longitude": -96.112072,
+    "name": "Burger King",
+    "zip": 75156
+  },
+  {
+    "id": "AVwd-vBbByjofQCxuNvr",
+    "city": "Ennis",
+    "latitude": 32.329153,
+    "longitude": -96.624465,
+    "name": "Burger King",
+    "zip": 75119
+  },
+  {
+    "id": "AVwdlrAOkufWRAb57XaG",
+    "city": "El Paso",
+    "latitude": 31.754262,
+    "longitude": -106.344422,
+    "name": "Burger King",
+    "zip": 79925
+  },
+  {
+    "id": "AVwdVZb2_7pvs4fz4ydU",
+    "city": "El Paso",
+    "latitude": 31.785568,
+    "longitude": -106.413835,
+    "name": "Burger King",
+    "zip": 79925
+  },
+  {
+    "id": "AVwdVIIJIN2L1WUfurFu",
+    "city": "El Paso",
+    "latitude": 31.904294,
+    "longitude": -106.422444,
+    "name": "Burger King",
+    "zip": 79924
+  },
+  {
+    "id": "AVweUNw2_7pvs4fzB6rA",
+    "city": "Dallas",
+    "latitude": 32.658567,
+    "longitude": -96.890792,
+    "name": "Burger King",
+    "zip": 75236
+  },
+  {
+    "id": "AVwckic3ByjofQCxfwAy",
+    "city": "Dallas",
+    "latitude": 32.83151,
+    "longitude": -96.839707,
+    "name": "Burger King",
+    "zip": 75235
+  },
+  {
+    "id": "AVwcwR1RkufWRAb5yqih",
+    "city": "Dallas",
+    "latitude": 32.909672,
+    "longitude": -96.857522,
+    "name": "Burger King",
+    "zip": 75234
+  },
+  {
+    "id": "AVwdH0S4ByjofQCxluZr",
+    "city": "Brownsville",
+    "latitude": 25.921239,
+    "longitude": -97.473976,
+    "name": "Burger King",
+    "zip": 78521
+  },
+  {
+    "id": "AVwdgUb2IN2L1WUfwejg",
+    "city": "Cedar Park",
+    "latitude": 30.517742,
+    "longitude": -97.828697,
+    "name": "Burger King",
+    "zip": 78613
+  },
+  {
+    "id": "AVwdGAh5IN2L1WUfsJTJ",
+    "city": "Carrollton",
+    "latitude": 33.012773,
+    "longitude": -96.887404,
+    "name": "Burger King",
+    "zip": 75007
+  },
+  {
+    "id": "AVwc9ZM1IN2L1WUfqwHG",
+    "city": "Bonham",
+    "latitude": 33.552932,
+    "longitude": -96.209495,
+    "name": "Burger King",
+    "zip": 75418
+  },
+  {
+    "id": "AVwckIRyByjofQCxfrHi",
+    "city": "Ennis",
+    "latitude": 32.333552,
+    "longitude": -96.616592,
+    "name": "Taco Bell",
+    "zip": 75119
+  },
+  {
+    "id": "AVwckIRyByjofQCxfrHi",
+    "city": "Ennis",
+    "latitude": 32.333552,
+    "longitude": -96.616592,
+    "name": "Taco Bell",
+    "zip": 75119
+  },
+  {
+    "id": "AVwckIRyByjofQCxfrHi",
+    "city": "Ennis",
+    "latitude": 32.333552,
+    "longitude": -96.616592,
+    "name": "Taco Bell",
+    "zip": 75119
+  },
+  {
+    "id": "AVwckB2vkufWRAb5wjeK",
+    "city": "El Paso",
+    "latitude": 31.680665,
+    "longitude": -106.313785,
+    "name": "Taco Bell",
+    "zip": 79907
+  },
+  {
+    "id": "AVwdftnfByjofQCxprTA",
+    "city": "El Paso",
+    "latitude": 31.872382,
+    "longitude": -106.426598,
+    "name": "Taco Bell",
+    "zip": 79924
+  },
+  {
+    "id": "AVweJl0AByjofQCxvtZ8",
+    "city": "El Paso",
+    "latitude": 31.829729,
+    "longitude": -106.527944,
+    "name": "Taco Bell",
+    "zip": 79912
+  },
+  {
+    "id": "AVweDSy6IN2L1WUf1j9f",
+    "city": "Dumas",
+    "latitude": 35.850968,
+    "longitude": -101.973341,
+    "name": "Taco Bell",
+    "zip": 79029
+  },
+  {
+    "id": "AVwdMCr5_7pvs4fz3MCN",
+    "city": "Dallas",
+    "latitude": 32.746076,
+    "longitude": -96.683491,
+    "name": "Taco Bell",
+    "zip": 75217
+  },
+  {
+    "id": "AVwc26zLIN2L1WUfpqVr",
+    "city": "Dallas",
+    "latitude": 32.863738,
+    "longitude": -96.895962,
+    "name": "Taco Bell",
+    "zip": 75220
+  },
+  {
+    "id": "AVweEeG5_7pvs4fz_xVY",
+    "city": "Del Rio",
+    "latitude": 29.380648,
+    "longitude": -100.904813,
+    "name": "Taco Bell",
+    "zip": 78840
+  },
+  {
+    "id": "AVwdf8eSkufWRAb56foO",
+    "city": "Dallas",
+    "latitude": 32.91046,
+    "longitude": -96.735539,
+    "name": "Taco Bell",
+    "zip": 75243
+  },
+  {
+    "id": "AVwdFhV-_7pvs4fz2HTA",
+    "city": "Corpus Christi",
+    "latitude": 27.707568,
+    "longitude": -97.388725,
+    "name": "Taco Bell",
+    "zip": 78411
+  },
+  {
+    "id": "AVwdILAWIN2L1WUfsfLx",
+    "city": "Corpus Christi",
+    "latitude": 27.666015,
+    "longitude": -97.283857,
+    "name": "Taco Bell",
+    "zip": 78418
+  },
+  {
+    "id": "AWEXI-02RxPSIh2Rr9VB",
+    "city": "Canton",
+    "latitude": 32.576285,
+    "longitude": -95.855334,
+    "name": "Taco Bell",
+    "zip": 75103
+  },
+  {
+    "id": "AVwcjHN2IN2L1WUfmLtT",
+    "city": "Beaumont",
+    "latitude": 30.127462,
+    "longitude": -94.15964,
+    "name": "Taco Bell",
+    "zip": 77706
+  },
+  {
+    "id": "AV1Ts157-gnIPe8DWs9A",
+    "city": "Austin",
+    "latitude": 30.348699,
+    "longitude": -97.735013,
+    "name": "Taco Bell",
+    "zip": 78757
+  },
+  {
+    "id": "AVwcg4qrIN2L1WUflw_y",
+    "city": "Houston",
+    "latitude": 29.72579,
+    "longitude": -95.46689,
+    "name": "Bubba's Texas Burger Shack",
+    "zip": 77056
+  },
+  {
+    "id": "AVwdudSaByjofQCxr7I3",
+    "city": "Houston",
+    "latitude": 29.751556,
+    "longitude": -95.500261,
+    "name": "Jamba Juice",
+    "zip": 77057
+  },
+  {
+    "id": "AVwckQnfIN2L1WUfmZp8",
+    "city": "Houston",
+    "latitude": 29.736456,
+    "longitude": -95.585565,
+    "name": "Jamba Juice",
+    "zip": 77077
+  },
+  {
+    "id": "AVweX1AckufWRAb5CV46",
+    "city": "Austin",
+    "latitude": 30.236888,
+    "longitude": -97.721834,
+    "name": "Burger King",
+    "zip": 78741
+  },
+  {
+    "id": "AVwdnpMr_7pvs4fz7rUe",
+    "city": "Houston",
+    "latitude": 29.9026,
+    "longitude": -95.3316,
+    "name": "Domino's Pizza",
+    "zip": 77039
+  },
+  {
+    "id": "AVweD9XgIN2L1WUf1pnh",
+    "city": "Houston",
+    "latitude": 29.839928,
+    "longitude": -95.64569,
+    "name": "Domino's Pizza",
+    "zip": 77084
+  },
+  {
+    "id": "AV6CGIEV3-Khe5l_XQkr",
+    "city": "Seabrook",
+    "latitude": 29.564308,
+    "longitude": -95.0468,
+    "name": "Domino's Pizza",
+    "zip": 77586
+  },
+  {
+    "id": "AVwc_TXVkufWRAb51I2P",
+    "city": "New Braunfels",
+    "latitude": 29.693064,
+    "longitude": -98.11711,
+    "name": "Domino's Pizza",
+    "zip": 78130
+  },
+  {
+    "id": "AVwc_TJq_7pvs4fz1FoD",
+    "city": "Houston",
+    "latitude": 29.731871,
+    "longitude": -95.384669,
+    "name": "Wendy's",
+    "zip": 77002
+  },
+  {
+    "id": "AVwc_TJq_7pvs4fz1FoD",
+    "city": "Houston",
+    "latitude": 29.731871,
+    "longitude": -95.384669,
+    "name": "Wendy's",
+    "zip": 77002
+  },
+  {
+    "id": "AVzA-YGk-gnIPe8DSfrf",
+    "city": "Dallas",
+    "latitude": 32.925478,
+    "longitude": -96.839414,
+    "name": "Wendy's",
+    "zip": 75244
+  },
+  {
+    "id": "AVwdBCXnByjofQCxkn8r",
+    "city": "Abilene",
+    "latitude": 32.40874,
+    "longitude": -99.781034,
+    "name": "Wendy's",
+    "zip": 79606
+  },
+  {
+    "id": "AVwcigqRByjofQCxfXZf",
+    "city": "Canyon",
+    "latitude": 34.979764,
+    "longitude": -101.919333,
+    "name": "Wendy's",
+    "zip": 79015
+  },
+  {
+    "id": "AVwdboQw_7pvs4fz51Rr",
+    "city": "Frisco",
+    "latitude": 33.105237,
+    "longitude": -96.805055,
+    "name": "Wendy's",
+    "zip": 75034
+  },
+  {
+    "id": "AVweASA9IN2L1WUf1Ims",
+    "city": "Dallas",
+    "latitude": 32.647465,
+    "longitude": -96.866226,
+    "name": "Wendy's",
+    "zip": 75237
+  },
+  {
+    "id": "AVwde6gmIN2L1WUfwQlp",
+    "city": "Texas City",
+    "latitude": 29.394964,
+    "longitude": -94.935809,
+    "name": "Wendy's",
+    "zip": 77590
+  },
+  {
+    "id": "AVwde6gmIN2L1WUfwQlp",
+    "city": "Texas City",
+    "latitude": 29.394964,
+    "longitude": -94.935809,
+    "name": "Wendy's",
+    "zip": 77590
+  },
+  {
+    "id": "AVwd7C5f_7pvs4fz-csc",
+    "city": "Big Spring",
+    "latitude": 32.232185,
+    "longitude": -101.471114,
+    "name": "Wendy's",
+    "zip": 79720
+  },
+  {
+    "id": "AVweISyOIN2L1WUf2Pa_",
+    "city": "Austin",
+    "latitude": 30.238834,
+    "longitude": -97.725402,
+    "name": "Wendy's",
+    "zip": 78741
+  },
+  {
+    "id": "AVwcvuI-ByjofQCxhuCG",
+    "city": "Del Rio",
+    "latitude": 29.3884,
+    "longitude": -100.905219,
+    "name": "Wendy's",
+    "zip": 78840
+  },
+  {
+    "id": "AVwcxnqgByjofQCxiD09",
+    "city": "Southlake",
+    "latitude": 32.941364,
+    "longitude": -97.121339,
+    "name": "Wendy's",
+    "zip": 76092
+  },
+  {
+    "id": "AV6CF1voIxWefVJwqSz_",
+    "city": "Edinburg",
+    "latitude": 26.304057,
+    "longitude": -98.180001,
+    "name": "Wendy's",
+    "zip": 78539
+  },
+  {
+    "id": "AVwciJEZ_7pvs4fzwJOm",
+    "city": "Flower Mound",
+    "latitude": 33.071401,
+    "longitude": -97.059489,
+    "name": "Wendy's",
+    "zip": 75028
+  },
+  {
+    "id": "AVwc7yc5ByjofQCxjyGF",
+    "city": "Houston",
+    "latitude": 29.798149,
+    "longitude": -95.369956,
+    "name": "Wendy's",
+    "zip": 77009
+  },
+  {
+    "id": "AVwdJ5EakufWRAb522sz",
+    "city": "Carrollton",
+    "latitude": 32.954204,
+    "longitude": -96.885816,
+    "name": "Wendy's",
+    "zip": 75006
+  },
+  {
+    "id": "AVwcmn7AByjofQCxgIkB",
+    "city": "Dallas",
+    "latitude": 32.744589,
+    "longitude": -96.682142,
+    "name": "Wendy's",
+    "zip": 75217
+  },
+  {
+    "id": "AVwcmn7AByjofQCxgIkB",
+    "city": "Dallas",
+    "latitude": 32.744589,
+    "longitude": -96.682142,
+    "name": "Wendy's",
+    "zip": 75217
+  },
+  {
+    "id": "AVwd5W5I_7pvs4fz-ON5",
+    "city": "Plano",
+    "latitude": 33.01922,
+    "longitude": -96.713877,
+    "name": "Boston Market",
+    "zip": 75075
+  },
+  {
+    "id": "AVwdj9FhByjofQCxqVBk",
+    "city": "Houston",
+    "latitude": 29.80661,
+    "longitude": -95.16805,
+    "name": "Wingstop",
+    "zip": 77049
+  },
+  {
+    "id": "AVz1rPIjFcQ3k02bDQf4",
+    "city": "Houston",
+    "latitude": 29.79852,
+    "longitude": -95.273294,
+    "name": "Luby's",
+    "zip": 77029
+  },
+  {
+    "id": "AVwdH__OIN2L1WUfsddY",
+    "city": "El Paso",
+    "latitude": 31.72652,
+    "longitude": -106.3021,
+    "name": "Arby's",
+    "zip": 79936
+  },
+  {
+    "id": "AVwcgtwvkufWRAb5v8pK",
+    "city": "Conroe",
+    "latitude": 30.301175,
+    "longitude": -95.466413,
+    "name": "Schlotzsky's",
+    "zip": 77304
+  },
+  {
+    "id": "AVwddeEoByjofQCxpWRX",
+    "city": "Allen",
+    "latitude": 33.112781,
+    "longitude": -96.659834,
+    "name": "SUBWAY",
+    "zip": 75002
+  },
+  {
+    "id": "AVwc5ZUzIN2L1WUfqFAh",
+    "city": "Fort Worth",
+    "latitude": 32.705696,
+    "longitude": -97.352636,
+    "name": "Whataburger",
+    "zip": 76110
+  },
+  {
+    "id": "AVwcfM4mByjofQCxex9z",
+    "city": "Longview",
+    "latitude": 32.454906,
+    "longitude": -94.707397,
+    "name": "Whataburger",
+    "zip": 75602
+  },
+  {
+    "id": "AVwehurHIN2L1WUf5xQj",
+    "city": "Lewisville",
+    "latitude": 33.047261,
+    "longitude": -97.009599,
+    "name": "Whataburger",
+    "zip": 75067
+  },
+  {
+    "id": "AVwdyeaRByjofQCxshBW",
+    "city": "Laredo",
+    "latitude": 27.54425,
+    "longitude": -99.504279,
+    "name": "Whataburger",
+    "zip": 78041
+  },
+  {
+    "id": "AVzBCe-m-gnIPe8DSiO8",
+    "city": "La Porte",
+    "latitude": 29.664548,
+    "longitude": -95.100597,
+    "name": "Whataburger",
+    "zip": 77571
+  },
+  {
+    "id": "AVwc8IUO_7pvs4fz0lGa",
+    "city": "Wylie",
+    "latitude": 33.011125,
+    "longitude": -96.540686,
+    "name": "Jack in the Box",
+    "zip": 75098
+  },
+  {
+    "id": "AVwc6FQOByjofQCxjfiv",
+    "city": "Weatherford",
+    "latitude": 32.73738,
+    "longitude": -97.766563,
+    "name": "Jack in the Box",
+    "zip": 76086
+  },
+  {
+    "id": "AV1Ts2kE-gnIPe8DWs90",
+    "city": "Austin",
+    "latitude": 30.418206,
+    "longitude": -97.704414,
+    "name": "Chick-fil-A",
+    "zip": 78727
+  },
+  {
+    "id": "AVzBCtqtLD2H7whiWK_V",
+    "city": "Allen",
+    "latitude": 33.101734,
+    "longitude": -96.683104,
+    "name": "Chick-fil-A",
+    "zip": 75013
+  },
+  {
+    "id": "AVwdNkzd_7pvs4fz3dDN",
+    "city": "Arlington",
+    "latitude": 32.68012,
+    "longitude": -97.129091,
+    "name": "Chick-fil-A",
+    "zip": 76015
+  },
+  {
+    "id": "AVwdNkzd_7pvs4fz3dDN",
+    "city": "Arlington",
+    "latitude": 32.68012,
+    "longitude": -97.129091,
+    "name": "Chick-fil-A",
+    "zip": 76015
+  },
+  {
+    "id": "AVwcnFCE_7pvs4fzxB9b",
+    "city": "Arlington",
+    "latitude": 32.670056,
+    "longitude": -97.135188,
+    "name": "Chick-fil-A",
+    "zip": 76017
+  },
+  {
+    "id": "AVwdXZJBkufWRAb55Jb2",
+    "city": "Austin",
+    "latitude": 30.382939,
+    "longitude": -97.723646,
+    "name": "Jack in the Box",
+    "zip": 78758
+  },
+  {
+    "id": "AVwc-dqAkufWRAb50___",
+    "city": "Austin",
+    "latitude": 30.193097,
+    "longitude": -97.777699,
+    "name": "Jack in the Box",
+    "zip": 78745
+  },
+  {
+    "id": "AVwc-dqAkufWRAb50___",
+    "city": "Austin",
+    "latitude": 30.193097,
+    "longitude": -97.777699,
+    "name": "Jack in the Box",
+    "zip": 78745
+  },
+  {
+    "id": "AVwclWDJByjofQCxf5nr",
+    "city": "Austin",
+    "latitude": 30.329335,
+    "longitude": -97.715475,
+    "name": "Jack in the Box",
+    "zip": 78752
+  },
+  {
+    "id": "AVwdbJejkufWRAb55wn_",
+    "city": "Arlington",
+    "latitude": 32.721092,
+    "longitude": -97.082344,
+    "name": "Jack in the Box",
+    "zip": 76010
+  },
+  {
+    "id": "AVwcqC8eByjofQCxgu83",
+    "city": "Arlington",
+    "latitude": 32.748458,
+    "longitude": -97.063449,
+    "name": "Jack in the Box",
+    "zip": 76011
+  },
+  {
+    "id": "AVwdBzmkIN2L1WUfrdHy",
+    "city": "Arlington",
+    "latitude": 32.760693,
+    "longitude": -97.114956,
+    "name": "Jack in the Box",
+    "zip": 76012
+  },
+  {
+    "id": "AVweKxVZkufWRAb5Al04",
+    "city": "Tyler",
+    "latitude": 32.366732,
+    "longitude": -95.32554,
+    "name": "KFC - Kentucky Fried Chicken",
+    "zip": 75702
+  },
+  {
+    "id": "AVwdY8HlkufWRAb55ZVF",
+    "city": "Alvin",
+    "latitude": 29.419228,
+    "longitude": -95.243666,
+    "name": "Jack in the Box",
+    "zip": 77511
+  },
+  {
+    "id": "AVwcyx4P_7pvs4fzzBqL",
+    "city": "Cedar Hill",
+    "latitude": 32.597845,
+    "longitude": -96.939267,
+    "name": "Subway",
+    "zip": 75104
+  },
+  {
+    "id": "AVwdV63kkufWRAb545oM",
+    "city": "Mount Pleasant",
+    "latitude": 33.131672,
+    "longitude": -94.968766,
+    "name": "Subway",
+    "zip": 75455
+  },
+  {
+    "id": "AVwdHSKAIN2L1WUfsWPp",
+    "city": "Beaumont",
+    "latitude": 30.08219,
+    "longitude": -94.13516,
+    "name": "McDonald's",
+    "zip": 77702
+  },
+  {
+    "id": "AVwciTHQ_7pvs4fzwLI6",
+    "city": "Lubbock",
+    "latitude": 33.590493,
+    "longitude": -101.858892,
+    "name": "McDonald's",
+    "zip": 79415
+  },
+  {
+    "id": "AVwc9Y3Q_7pvs4fz0xgk",
+    "city": "Mesquite",
+    "latitude": 32.80065,
+    "longitude": -96.627222,
+    "name": "McDonald's",
+    "zip": 75150
+  },
+  {
+    "id": "AVweG6TtkufWRAb5AET6",
+    "city": "Odessa",
+    "latitude": 31.888679,
+    "longitude": -102.356185,
+    "name": "Burger King",
+    "zip": 79762
+  },
+  {
+    "id": "AVwc8UHWIN2L1WUfqk_k",
+    "city": "McKinney",
+    "latitude": 33.216656,
+    "longitude": -96.631719,
+    "name": "Burger King",
+    "zip": 75069
+  },
+  {
+    "id": "AVwc8UHWIN2L1WUfqk_k",
+    "city": "McKinney",
+    "latitude": 33.216656,
+    "longitude": -96.631719,
+    "name": "Burger King",
+    "zip": 75069
+  },
+  {
+    "id": "AVwd8x2lIN2L1WUf0pg5",
+    "city": "McAllen",
+    "latitude": 26.239152,
+    "longitude": -98.221865,
+    "name": "Burger King",
+    "zip": 78504
+  },
+  {
+    "id": "AVwc9gte_7pvs4fz0y2D",
+    "city": "Lubbock",
+    "latitude": 33.577755,
+    "longitude": -101.868444,
+    "name": "Burger King",
+    "zip": 79401
+  },
+  {
+    "id": "AVwdPpJEByjofQCxnDMn",
+    "city": "Lubbock",
+    "latitude": 33.54911,
+    "longitude": -101.860063,
+    "name": "Burger King",
+    "zip": 79412
+  },
+  {
+    "id": "AVwegMsskufWRAb5DiTk",
+    "city": "Lubbock",
+    "latitude": 33.519732,
+    "longitude": -101.901231,
+    "name": "Burger King",
+    "zip": 79423
+  },
+  {
+    "id": "AVweBoeF_7pvs4fz_YJR",
+    "city": "Laredo",
+    "latitude": 27.592189,
+    "longitude": -99.512159,
+    "name": "Burger King",
+    "zip": 78045
+  },
+  {
+    "id": "AVwefe2o_7pvs4fzDfoK",
+    "city": "La Feria",
+    "latitude": 26.162935,
+    "longitude": -97.824032,
+    "name": "Burger King",
+    "zip": 78559
+  },
+  {
+    "id": "AVwdxdBrIN2L1WUfzE2H",
+    "city": "Irving",
+    "latitude": 32.86468,
+    "longitude": -96.992263,
+    "name": "Burger King",
+    "zip": 75038
+  },
+  {
+    "id": "AVwcycrg_7pvs4fzy-IT",
+    "city": "Houston",
+    "latitude": 29.721605,
+    "longitude": -95.352333,
+    "name": "Burger King",
+    "zip": 77004
+  },
+  {
+    "id": "AVwcwx-BByjofQCxh564",
+    "city": "Houston",
+    "latitude": 29.726663,
+    "longitude": -95.4181,
+    "name": "Burger King",
+    "zip": 77098
+  },
+  {
+    "id": "AVwcovAV_7pvs4fzxUaL",
+    "city": "Houston",
+    "latitude": 29.759701,
+    "longitude": -95.364481,
+    "name": "Burger King",
+    "zip": 77002
+  },
+  {
+    "id": "AVwc-RidkufWRAb5098M",
+    "city": "Houston",
+    "latitude": 29.641908,
+    "longitude": -95.241751,
+    "name": "Burger King",
+    "zip": 77034
+  },
+  {
+    "id": "AVweJWWy_7pvs4fzAcCJ",
+    "city": "San Antonio",
+    "latitude": 29.397622,
+    "longitude": -98.557511,
+    "name": "McDonald's",
+    "zip": 78226
+  },
+  {
+    "id": "AVweAzq3kufWRAb5_Oe1",
+    "city": "Houston",
+    "latitude": 29.897457,
+    "longitude": -95.42991,
+    "name": "McDonald's",
+    "zip": 77038
+  },
+  {
+    "id": "AVweAzq3kufWRAb5_Oe1",
+    "city": "Houston",
+    "latitude": 29.897457,
+    "longitude": -95.42991,
+    "name": "McDonald's",
+    "zip": 77038
+  },
+  {
+    "id": "AVwd50Q1kufWRAb5-QqK",
+    "city": "Corpus Christi",
+    "latitude": 27.740361,
+    "longitude": -97.438198,
+    "name": "McDonald's",
+    "zip": 78416
+  },
+  {
+    "id": "AV1TszoT-gnIPe8DWs6Y",
+    "city": "Austin",
+    "latitude": 30.188304,
+    "longitude": -97.765636,
+    "name": "Sonic",
+    "zip": 78744
+  },
+  {
+    "id": "AVwdkOlWkufWRAb57Jmh",
+    "city": "El Paso",
+    "latitude": 31.742009,
+    "longitude": -106.377783,
+    "name": "McDonald's",
+    "zip": 79915
+  },
+  {
+    "id": "AVweFMoBkufWRAb5_1FK",
+    "city": "Converse",
+    "latitude": 29.535303,
+    "longitude": -98.331939,
+    "name": "McDonald's",
+    "zip": 78109
+  },
+  {
+    "id": "AVwd7kQ2kufWRAb5-f21",
+    "city": "Houston",
+    "latitude": 29.679865,
+    "longitude": -95.356402,
+    "name": "McDonald's",
+    "zip": 77051
+  },
+  {
+    "id": "AVwcqnfXkufWRAb5xs9o",
+    "city": "Houston",
+    "latitude": 29.738061,
+    "longitude": -95.5025,
+    "name": "McDonald's",
+    "zip": 77063
+  },
+  {
+    "id": "AVwcqnfXkufWRAb5xs9o",
+    "city": "Houston",
+    "latitude": 29.738061,
+    "longitude": -95.5025,
+    "name": "McDonald's",
+    "zip": 77063
+  },
+  {
+    "id": "AVwcg7lekufWRAb5v_JR",
+    "city": "Houston",
+    "latitude": 29.870605,
+    "longitude": -95.407467,
+    "name": "McDonald's",
+    "zip": 77037
+  },
+  {
+    "id": "AVwdqvUhkufWRAb58JrF",
+    "city": "Ennis",
+    "latitude": 32.331047,
+    "longitude": -96.620697,
+    "name": "McDonald's",
+    "zip": 75119
+  },
+  {
+    "id": "AVwct4bJIN2L1WUfoG5T",
+    "city": "Houston",
+    "latitude": 29.737044,
+    "longitude": -95.305392,
+    "name": "McDonald's",
+    "zip": 77011
+  },
+  {
+    "id": "AVwct4bJIN2L1WUfoG5T",
+    "city": "Houston",
+    "latitude": 29.737044,
+    "longitude": -95.305392,
+    "name": "McDonald's",
+    "zip": 77011
+  },
+  {
+    "id": "AVwd_rUEByjofQCxuVpb",
+    "city": "McKinney",
+    "latitude": 33.199406,
+    "longitude": -96.706495,
+    "name": "McDonald's",
+    "zip": 75071
+  },
+  {
+    "id": "AVwcsQe0IN2L1WUfn1Kb",
+    "city": "Houston",
+    "latitude": 29.849088,
+    "longitude": -95.30296,
+    "name": "McDonald's",
+    "zip": 77016
+  },
+  {
+    "id": "AVweLByf_7pvs4fzAq1D",
+    "city": "Arlington",
+    "latitude": 32.643775,
+    "longitude": -97.115846,
+    "name": "McDonald's",
+    "zip": 76002
+  },
+  {
+    "id": "AVweLByf_7pvs4fzAq1D",
+    "city": "Arlington",
+    "latitude": 32.643775,
+    "longitude": -97.115846,
+    "name": "McDonald's",
+    "zip": 76002
+  },
+  {
+    "id": "AVwcsUFUByjofQCxhI1g",
+    "city": "El Paso",
+    "latitude": 31.703856,
+    "longitude": -106.319325,
+    "name": "McDonald's",
+    "zip": 79907
+  },
+  {
+    "id": "AVwcslDXkufWRAb5yCj0",
+    "city": "San Angelo",
+    "latitude": 31.438356,
+    "longitude": -100.492727,
+    "name": "McAlister's Deli",
+    "zip": 76901
+  },
+  {
+    "id": "AVweib1pkufWRAb5D395",
+    "city": "San Diego",
+    "latitude": 27.762788,
+    "longitude": -98.233499,
+    "name": "Church's Chicken",
+    "zip": 78384
+  },
+  {
+    "id": "AVwd6UG6_7pvs4fz-Wjb",
+    "city": "Weslaco",
+    "latitude": 26.17465,
+    "longitude": -97.990902,
+    "name": "Church's Chicken",
+    "zip": 78596
+  },
+  {
+    "id": "AVwcmScikufWRAb5w80e",
+    "city": "Corpus Christi",
+    "latitude": 27.738643,
+    "longitude": -97.407793,
+    "name": "Church's Chicken",
+    "zip": 78415
+  },
+  {
+    "id": "AVwc-NrzIN2L1WUfq4S-",
+    "city": "McAllen",
+    "latitude": 26.220583,
+    "longitude": -98.227371,
+    "name": "Church's Chicken",
+    "zip": 78501
+  },
+  {
+    "id": "AVwcry0P_7pvs4fzx2QB",
+    "city": "Dallas",
+    "latitude": 32.818159,
+    "longitude": -96.81343,
+    "name": "Wingstop",
+    "zip": 75219
+  },
+  {
+    "id": "AVwcry0P_7pvs4fzx2QB",
+    "city": "Dallas",
+    "latitude": 32.818159,
+    "longitude": -96.81343,
+    "name": "Wingstop",
+    "zip": 75219
+  },
+  {
+    "id": "AVzBBdIU3D1zeR_xBEtS",
+    "city": "Dripping Springs",
+    "latitude": 30.190965,
+    "longitude": -98.086549,
+    "name": "Taco Bell",
+    "zip": 78620
+  },
+  {
+    "id": "AVwdZ6sc_7pvs4fz5ixC",
+    "city": "Round Rock",
+    "latitude": 30.51735,
+    "longitude": -97.689343,
+    "name": "Taco Bell",
+    "zip": 78681
+  },
+  {
+    "id": "AV1gm6xJ3-Khe5l_NfV_",
+    "city": "El Paso",
+    "latitude": 31.938388,
+    "longitude": -106.407135,
+    "name": "Taco Bell",
+    "zip": 79934
+  },
+  {
+    "id": "AVwdb5CzByjofQCxpGMH",
+    "city": "Houston",
+    "latitude": 29.737949,
+    "longitude": -95.512861,
+    "name": "Panda Express",
+    "zip": 77063
+  },
+  {
+    "id": "AV0g8hAQFcQ3k02bFBx8",
+    "city": "La Marque",
+    "latitude": 29.399535,
+    "longitude": -95.03796,
+    "name": "Taco Bell",
+    "zip": 77568
+  },
+  {
+    "id": "AVwc0uSbByjofQCxilx6",
+    "city": "Deer Park",
+    "latitude": 29.680383,
+    "longitude": -95.122912,
+    "name": "Taco Bell",
+    "zip": 77536
+  },
+  {
+    "id": "AVwdfbq7IN2L1WUfwVgu",
+    "city": "Dallas",
+    "latitude": 32.826743,
+    "longitude": -96.83058,
+    "name": "Taco Bell",
+    "zip": 75235
+  },
+  {
+    "id": "AVwc06P8ByjofQCxin9Z",
+    "city": "Madisonville",
+    "latitude": 30.964101,
+    "longitude": -95.885554,
+    "name": "Taco Bell",
+    "zip": 77864
+  },
+  {
+    "id": "AVweRWxsByjofQCxwwXd",
+    "city": "Grand Prairie",
+    "latitude": 32.785099,
+    "longitude": -97.060961,
+    "name": "Taco Bell",
+    "zip": 75050
+  },
+  {
+    "id": "AVweRWxsByjofQCxwwXd",
+    "city": "Grand Prairie",
+    "latitude": 32.785099,
+    "longitude": -97.060961,
+    "name": "Taco Bell",
+    "zip": 75050
+  },
+  {
+    "id": "AV1b_LYNLD2H7whialh5",
+    "city": "Uvalde",
+    "latitude": 29.212832,
+    "longitude": -99.77778,
+    "name": "Taco Bell",
+    "zip": 78801
+  },
+  {
+    "id": "AV5BXnjZIxWefVJwmN4M",
+    "city": "Terrell",
+    "latitude": 32.738517,
+    "longitude": -96.303893,
+    "name": "Arby's",
+    "zip": 75160
+  },
+  {
+    "id": "AVwdbWojkufWRAb55y7J",
+    "city": "Richmond",
+    "latitude": 29.551541,
+    "longitude": -95.694136,
+    "name": "Subway",
+    "zip": 77469
+  },
+  {
+    "id": "AVweTT9LByjofQCxxBUK",
+    "city": "Dallas",
+    "latitude": 32.8711,
+    "longitude": -96.7594,
+    "name": "Domino's Pizza",
+    "zip": 75231
+  },
+  {
+    "id": "AVwdMKg8IN2L1WUftKAp",
+    "city": "Texas City",
+    "latitude": 29.378199,
+    "longitude": -95.00634,
+    "name": "Domino's Pizza",
+    "zip": 77591
+  },
+  {
+    "id": "AVwc18fW_7pvs4fzzimv",
+    "city": "Waller",
+    "latitude": 30.064443,
+    "longitude": -95.905673,
+    "name": "Arby's",
+    "zip": 77484
+  },
+  {
+    "id": "AVzBDHJCFcQ3k02bBdMG",
+    "city": "Spring",
+    "latitude": 30.066003,
+    "longitude": -95.432509,
+    "name": "Arby's",
+    "zip": 77373
+  },
+  {
+    "id": "AVwd42YvIN2L1WUf0F2s",
+    "city": "San Antonio",
+    "latitude": 29.404932,
+    "longitude": -98.628837,
+    "name": "Arby's",
+    "zip": 78227
+  },
+  {
+    "id": "AVwdvMko_7pvs4fz8zlC",
+    "city": "San Antonio",
+    "latitude": 29.569973,
+    "longitude": -98.383507,
+    "name": "Arby's",
+    "zip": 78247
+  },
+  {
+    "id": "AVwdIcrdkufWRAb52nZR",
+    "city": "Richardson",
+    "latitude": 32.973511,
+    "longitude": -96.69923,
+    "name": "Arby's",
+    "zip": 75081
+  },
+  {
+    "id": "AV0aBcvm-gnIPe8DVuDk",
+    "city": "San Angelo",
+    "latitude": 31.421448,
+    "longitude": -100.468308,
+    "name": "Arby's",
+    "zip": 76904
+  },
+  {
+    "id": "AVwdsDKKIN2L1WUfyS2F",
+    "city": "Denton",
+    "latitude": 33.189964,
+    "longitude": -97.10396,
+    "name": "Arby's",
+    "zip": 76205
+  },
+  {
+    "id": "AVwdsDKKIN2L1WUfyS2F",
+    "city": "Denton",
+    "latitude": 33.189964,
+    "longitude": -97.10396,
+    "name": "Arby's",
+    "zip": 76205
+  },
+  {
+    "id": "AVweDjDI_7pvs4fz_pgo",
+    "city": "Copperas Cove",
+    "latitude": 31.120436,
+    "longitude": -97.867188,
+    "name": "Arby's",
+    "zip": 76522
+  },
+  {
+    "id": "AVwdMvdakufWRAb53WON",
+    "city": "Corpus Christi",
+    "latitude": 27.713563,
+    "longitude": -97.370984,
+    "name": "Arby's",
+    "zip": 78411
+  },
+  {
+    "id": "AV_CgMrCa4HuVbedG9sN",
+    "city": "Corpus Christi",
+    "latitude": 27.684779,
+    "longitude": -97.382354,
+    "name": "Arby's",
+    "zip": 78414
+  },
+  {
+    "id": "AVwck-I2kufWRAb5wt_r",
+    "city": "Austin",
+    "latitude": 30.363358,
+    "longitude": -97.718159,
+    "name": "Arby's",
+    "zip": 78758
+  },
+  {
+    "id": "AVwck-I2kufWRAb5wt_r",
+    "city": "Austin",
+    "latitude": 30.363358,
+    "longitude": -97.718159,
+    "name": "Arby's",
+    "zip": 78758
+  },
+  {
+    "id": "AVwdZsHD_7pvs4fz5ggG",
+    "city": "Amarillo",
+    "latitude": 35.190678,
+    "longitude": -101.817353,
+    "name": "Arby's",
+    "zip": 79103
+  },
+  {
+    "id": "AVwdAzJTByjofQCxklRt",
+    "city": "Canyon",
+    "latitude": 34.98186,
+    "longitude": -101.919308,
+    "name": "Subway",
+    "zip": 79015
+  },
+  {
+    "id": "AVwcoGWp_7pvs4fzxNRA",
+    "city": "Humble",
+    "latitude": 29.99638,
+    "longitude": -95.161887,
+    "name": "Subway",
+    "zip": 77346
+  },
+  {
+    "id": "AVwc9l8jkufWRAb503Ck",
+    "city": "Mesquite",
+    "latitude": 32.835955,
+    "longitude": -96.629937,
+    "name": "Subway",
+    "zip": 75150
+  },
+  {
+    "id": "AVwcjskmByjofQCxfl5w",
+    "city": "Killeen",
+    "latitude": 31.096631,
+    "longitude": -97.720787,
+    "name": "Subway",
+    "zip": 76543
+  },
+  {
+    "id": "AVz7i31b3D1zeR_xDIbD",
+    "city": "Huntsville",
+    "latitude": 30.717538,
+    "longitude": -95.551437,
+    "name": "Subway",
+    "zip": 77340
+  },
+  {
+    "id": "AVwcvPd-ByjofQCxhofP",
+    "city": "Allen",
+    "latitude": 33.129986,
+    "longitude": -96.670843,
+    "name": "Subway",
+    "zip": 75002
+  },
+  {
+    "id": "AV1beFV-3D1zeR_xFZ1i",
+    "city": "Colorado City",
+    "latitude": 32.388575,
+    "longitude": -100.866551,
+    "name": "Subway",
+    "zip": 79512
+  },
+  {
+    "id": "AVwc1OUx_7pvs4fzzbtT",
+    "city": "Mesquite",
+    "latitude": 32.836722,
+    "longitude": -96.629862,
+    "name": "Wienerschnitzel",
+    "zip": 75150
+  },
+  {
+    "id": "AVwc1OUx_7pvs4fzzbtT",
+    "city": "Mesquite",
+    "latitude": 32.836722,
+    "longitude": -96.629862,
+    "name": "Wienerschnitzel",
+    "zip": 75150
+  },
+  {
+    "id": "AVwcu35j_7pvs4fzyXKE",
+    "city": "Lubbock",
+    "latitude": 33.562991,
+    "longitude": -101.914766,
+    "name": "Wienerschnitzel",
+    "zip": 79410
+  },
+  {
+    "id": "AVwdXG8QIN2L1WUfvAtA",
+    "city": "Grand Prairie",
+    "latitude": 32.677907,
+    "longitude": -97.045942,
+    "name": "Wienerschnitzel",
+    "zip": 75052
+  },
+  {
+    "id": "AVwdCgQgkufWRAb51qZR",
+    "city": "El Paso",
+    "latitude": 31.77405,
+    "longitude": -106.500189,
+    "name": "Wienerschnitzel",
+    "zip": 79902
+  },
+  {
+    "id": "AVwdfibGByjofQCxppm4",
+    "city": "Houston",
+    "latitude": 29.746486,
+    "longitude": -95.360385,
+    "name": "Subway",
+    "zip": 77003
+  },
+  {
+    "id": "AVzBC0IRLD2H7whiWLBz",
+    "city": "Dallas",
+    "latitude": 32.844327,
+    "longitude": -96.78702,
+    "name": "Jimmy John's",
+    "zip": 75205
+  },
+  {
+    "id": "AVwdJURUIN2L1WUfsq45",
+    "city": "Houston",
+    "latitude": 29.733634,
+    "longitude": -95.476471,
+    "name": "Papa John's Pizza",
+    "zip": 77056
+  },
+  {
+    "id": "AVwcgU1GByjofQCxe97t",
+    "city": "Wylie",
+    "latitude": 33.008282,
+    "longitude": -96.544518,
+    "name": "McDonald's",
+    "zip": 75098
+  },
+  {
+    "id": "AVwdQ4V6ByjofQCxnRS5",
+    "city": "Refugio",
+    "latitude": 28.309859,
+    "longitude": -97.274324,
+    "name": "McDonald's",
+    "zip": 78377
+  },
+  {
+    "id": "AVweafxo_7pvs4fzCwrC",
+    "city": "Missouri City",
+    "latitude": 29.534345,
+    "longitude": -95.516232,
+    "name": "McDonald's",
+    "zip": 77459
+  },
+  {
+    "id": "AVzA9cHQFcQ3k02bBZoV",
+    "city": "Houston",
+    "latitude": 29.783736,
+    "longitude": -95.520568,
+    "name": "McDonald's",
+    "zip": 77024
+  },
+  {
+    "id": "AVwc0IpL_7pvs4fzzP_X",
+    "city": "San Antonio",
+    "latitude": 29.484724,
+    "longitude": -98.666905,
+    "name": "McDonald's",
+    "zip": 78251
+  },
+  {
+    "id": "AVwdXdwk_7pvs4fz5I6P",
+    "city": "Decatur",
+    "latitude": 33.23776,
+    "longitude": -97.60375,
+    "name": "McDonald's",
+    "zip": 76234
+  },
+  {
+    "id": "AWAbTQb7RxPSIh2Ro2RI",
+    "city": "Houston",
+    "latitude": 29.781447,
+    "longitude": -95.543159,
+    "name": "McDonald's",
+    "zip": 77024
+  },
+  {
+    "id": "AVzA9ez4LD2H7whiWHnu",
+    "city": "Houston",
+    "latitude": 29.90105,
+    "longitude": -95.551515,
+    "name": "McDonald's",
+    "zip": 77040
+  },
+  {
+    "id": "AVwdVJta_7pvs4fz4v3s",
+    "city": "Houston",
+    "latitude": 29.640633,
+    "longitude": -95.244523,
+    "name": "McDonald's",
+    "zip": 77075
+  },
+  {
+    "id": "AVwchMNZkufWRAb5wCL8",
+    "city": "Dallas",
+    "latitude": 32.895643,
+    "longitude": -96.722979,
+    "name": "McDonald's",
+    "zip": 75243
+  },
+  {
+    "id": "AV0Hm1AT-gnIPe8DUwRK",
+    "city": "Baytown",
+    "latitude": 29.822449,
+    "longitude": -94.899115,
+    "name": "McDonald's",
+    "zip": 77520
+  },
+  {
+    "id": "AV2TW2a0a4HuVbed97hp",
+    "city": "Port Arthur",
+    "latitude": 29.942785,
+    "longitude": -93.990044,
+    "name": "McDonald's",
+    "zip": 77640
+  },
+  {
+    "id": "AVwclplqByjofQCxf9Q8",
+    "city": "San Antonio",
+    "latitude": 29.468774,
+    "longitude": -98.648822,
+    "name": "McDonald's",
+    "zip": 78251
+  },
+  {
+    "id": "AVwc4terkufWRAb50DyQ",
+    "city": "Longview",
+    "latitude": 32.542143,
+    "longitude": -94.749297,
+    "name": "Long John Silver's",
+    "zip": 75605
+  },
+  {
+    "id": "AVwebj4G_7pvs4fzC6NX",
+    "city": "Pasadena",
+    "latitude": 29.693802,
+    "longitude": -95.171786,
+    "name": "Long John Silver's",
+    "zip": 77503
+  },
+  {
+    "id": "AVwdacD6IN2L1WUfvjaA",
+    "city": "Richardson",
+    "latitude": 32.94486,
+    "longitude": -96.694559,
+    "name": "Long John Silver's",
+    "zip": 75081
+  },
+  {
+    "id": "AVwc33ZPkufWRAb5z7F_",
+    "city": "Austin",
+    "latitude": 30.447359,
+    "longitude": -97.789004,
+    "name": "Pei Wei",
+    "zip": 78750
+  },
+  {
+    "id": "AWE8EbwNIxWefVJwyUAo",
+    "city": "Amarillo",
+    "latitude": 35.177096,
+    "longitude": -101.938201,
+    "name": "Pei Wei",
+    "zip": 79124
+  },
+  {
+    "id": "AVwdvjQYIN2L1WUfyymE",
+    "city": "Sulphur Springs",
+    "latitude": 33.120322,
+    "longitude": -95.596209,
+    "name": "Sonic",
+    "zip": 75482
+  },
+  {
+    "id": "AVwda8OqkufWRAb55ueF",
+    "city": "Schulenburg",
+    "latitude": 29.690194,
+    "longitude": -96.902623,
+    "name": "Sonic",
+    "zip": 78956
+  },
+  {
+    "id": "AVwd-90l_7pvs4fz_ASQ",
+    "city": "Azle",
+    "latitude": 32.893012,
+    "longitude": -97.537666,
+    "name": "Chicken Express",
+    "zip": 76020
+  },
+  {
+    "id": "AVwcwfuHIN2L1WUfoj9h",
+    "city": "Weatherford",
+    "latitude": 32.736443,
+    "longitude": -97.800159,
+    "name": "Chicken Express",
+    "zip": 76086
+  },
+  {
+    "id": "AVwcwfuHIN2L1WUfoj9h",
+    "city": "Weatherford",
+    "latitude": 32.736443,
+    "longitude": -97.800159,
+    "name": "Chicken Express",
+    "zip": 76086
+  },
+  {
+    "id": "AVwdxtfsIN2L1WUfzHJE",
+    "city": "Tyler",
+    "latitude": 32.336239,
+    "longitude": -95.340249,
+    "name": "Chicken Express",
+    "zip": 75701
+  },
+  {
+    "id": "AV0JXHjTLD2H7whiYchR",
+    "city": "Snyder",
+    "latitude": 32.698772,
+    "longitude": -100.919125,
+    "name": "Chicken Express",
+    "zip": 79549
+  },
+  {
+    "id": "AVwcfb0vByjofQCxe0zJ",
+    "city": "Garland",
+    "latitude": 32.931335,
+    "longitude": -96.649148,
+    "name": "Subway",
+    "zip": 75042
+  },
+  {
+    "id": "AV1b93OTFcQ3k02bF98e",
+    "city": "Fredericksburg",
+    "latitude": 30.257639,
+    "longitude": -98.852392,
+    "name": "Subway",
+    "zip": 78624
+  },
+  {
+    "id": "AVwdCwmj_7pvs4fz1qLd",
+    "city": "Sherman",
+    "latitude": 33.660309,
+    "longitude": -96.60023,
+    "name": "Subway",
+    "zip": 75090
+  },
+  {
+    "id": "AVwdE_8kkufWRAb52FHD",
+    "city": "Abilene",
+    "latitude": 32.396009,
+    "longitude": -99.761579,
+    "name": "Subway",
+    "zip": 79606
+  },
+  {
+    "id": "AVwce0eQ_7pvs4fzvhem",
+    "city": "Dallas",
+    "latitude": 32.796316,
+    "longitude": -96.773472,
+    "name": "Subway",
+    "zip": 75246
+  },
+  {
+    "id": "AVwdcRHBkufWRAb5588S",
+    "city": "Hidalgo",
+    "latitude": 26.107237,
+    "longitude": -98.256943,
+    "name": "Subway",
+    "zip": 78557
+  },
+  {
+    "id": "AV1gmB1-IxWefVJwfx6s",
+    "city": "Longview",
+    "latitude": 32.500507,
+    "longitude": -94.734952,
+    "name": "McDonald's",
+    "zip": 75601
+  },
+  {
+    "id": "AVwcgAwBkufWRAb5v0yQ",
+    "city": "Corpus Christi",
+    "latitude": 27.698889,
+    "longitude": -97.411379,
+    "name": "McDonald's",
+    "zip": 78413
+  },
+  {
+    "id": "AVwd7WYHIN2L1WUf0cgp",
+    "city": "Houston",
+    "latitude": 29.727999,
+    "longitude": -95.345183,
+    "name": "McDonald's",
+    "zip": 77004
+  },
+  {
+    "id": "AVwelu_8kufWRAb5EWkz",
+    "city": "Plano",
+    "latitude": 33.003562,
+    "longitude": -96.68154,
+    "name": "McDonald's",
+    "zip": 75074
+  },
+  {
+    "id": "AVwejj0W_7pvs4fzEHWL",
+    "city": "Pearland",
+    "latitude": 29.553856,
+    "longitude": -95.258029,
+    "name": "McDonald's",
+    "zip": 77581
+  },
+  {
+    "id": "AVwdu1mz_7pvs4fz8wJ3",
+    "city": "Houston",
+    "latitude": 29.939013,
+    "longitude": -95.397632,
+    "name": "McDonald's",
+    "zip": 77060
+  },
+  {
+    "id": "AWOntyawa4HuVbedQlDc",
+    "city": "Gilmer",
+    "latitude": 32.737364,
+    "longitude": -94.942021,
+    "name": "SONIC Drive In",
+    "zip": 75644
+  },
+  {
+    "id": "AVwchzZHkufWRAb5wJ21",
+    "city": "Flower Mound",
+    "latitude": 33.041755,
+    "longitude": -97.044256,
+    "name": "7-Eleven",
+    "zip": 75028
+  },
+  {
+    "id": "AVwc2T9l_7pvs4fzzmnG",
+    "city": "San Antonio",
+    "latitude": 29.488978,
+    "longitude": -98.444786,
+    "name": "Whataburger",
+    "zip": 78209
+  },
+  {
+    "id": "AVwc2T9l_7pvs4fzzmnG",
+    "city": "San Antonio",
+    "latitude": 29.488978,
+    "longitude": -98.444786,
+    "name": "Whataburger",
+    "zip": 78209
+  },
+  {
+    "id": "AWOnnF-cIxWefVJw0dt9",
+    "city": "Palestine",
+    "latitude": 31.752737,
+    "longitude": -95.64949,
+    "name": "KFC/AW",
+    "zip": 75801
+  },
+  {
+    "id": "AVweNmTskufWRAb5A-Y_",
+    "city": "Houston",
+    "latitude": 29.657599,
+    "longitude": -95.355189,
+    "name": "KFC",
+    "zip": 77051
+  },
+  {
+    "id": "AVwdOuNaByjofQCxm4rp",
+    "city": "Dallas",
+    "latitude": 32.813056,
+    "longitude": -96.753654,
+    "name": "Papa John's Pizza",
+    "zip": 75214
+  },
+  {
+    "id": "AV_Be4rJIxWefVJwsYZ_",
+    "city": "El Paso",
+    "latitude": 31.775922,
+    "longitude": -106.379298,
+    "name": "McDonalds",
+    "zip": 79925
+  },
+  {
+    "id": "AVwdLGd5_7pvs4fz3BG2",
+    "city": "Cleburne",
+    "latitude": 32.346016,
+    "longitude": -97.392868,
+    "name": "Jack in the Box",
+    "zip": 76033
+  },
+  {
+    "id": "AVwdcYWSIN2L1WUfv4Xn",
+    "city": "Garland",
+    "latitude": 32.947305,
+    "longitude": -96.61939,
+    "name": "McDonald's",
+    "zip": 75040
+  },
+  {
+    "id": "AVwchN2sByjofQCxfHt9",
+    "city": "Houston",
+    "latitude": 29.739693,
+    "longitude": -95.643664,
+    "name": "McDonald's",
+    "zip": 77077
+  },
+  {
+    "id": "AVwchNPQkufWRAb5wCYM",
+    "city": "Corpus Christi",
+    "latitude": 27.682868,
+    "longitude": -97.386019,
+    "name": "SONIC Drive In",
+    "zip": 78413
+  },
+  {
+    "id": "AVwcqJSDkufWRAb5xnOy",
+    "city": "El Paso",
+    "latitude": 31.787478,
+    "longitude": -106.410762,
+    "name": "Wendy's",
+    "zip": 79925
+  },
+  {
+    "id": "AVwcy0UHByjofQCxiQQN",
+    "city": "Wichita Falls",
+    "latitude": 33.906859,
+    "longitude": -98.534243,
+    "name": "SONIC Drive In",
+    "zip": 76309
+  },
+  {
+    "id": "AVwd1Lw2_7pvs4fz9pkx",
+    "city": "San Antonio",
+    "latitude": 29.357073,
+    "longitude": -98.500687,
+    "name": "Wendy's",
+    "zip": 78221
+  },
+  {
+    "id": "AVwdqtEI_7pvs4fz8J3M",
+    "city": "San Antonio",
+    "latitude": 29.611289,
+    "longitude": -98.468894,
+    "name": "SONIC Drive In",
+    "zip": 78258
+  },
+  {
+    "id": "AVwdRHKiIN2L1WUfuA47",
+    "city": "Beaumont",
+    "latitude": 30.170202,
+    "longitude": -94.18503,
+    "name": "McDonald's",
+    "zip": 77708
+  },
+  {
+    "id": "AVweJSS6IN2L1WUf2YNq",
+    "city": "Kemah",
+    "latitude": 29.53561,
+    "longitude": -95.020701,
+    "name": "Whataburger",
+    "zip": 77565
+  },
+  {
+    "id": "AV1b9MADFcQ3k02bF8lf",
+    "city": "Athens",
+    "latitude": 32.203958,
+    "longitude": -95.862406,
+    "name": "Arby's - Closed",
+    "zip": 75751
+  },
+  {
+    "id": "AV1b9MADFcQ3k02bF8lf",
+    "city": "Athens",
+    "latitude": 32.203958,
+    "longitude": -95.862406,
+    "name": "Arby's - Closed",
+    "zip": 75751
+  },
+  {
+    "id": "AVzA9qlmLD2H7whiWHwS",
+    "city": "Cedar Park",
+    "latitude": 30.51772,
+    "longitude": -97.828739,
+    "name": "Burger King",
+    "zip": 78613
+  },
+  {
+    "id": "AVwdM7KZ_7pvs4fz3WHr",
+    "city": "Pflugerville",
+    "latitude": 30.447701,
+    "longitude": -97.639516,
+    "name": "McDonald's",
+    "zip": 78660
+  },
+  {
+    "id": "AVwct2UlIN2L1WUfoGhZ",
+    "city": "San Antonio",
+    "latitude": 29.510698,
+    "longitude": -98.389067,
+    "name": "Taco Bell",
+    "zip": 78218
+  },
+  {
+    "id": "AVzBEZTU-gnIPe8DSjEn",
+    "city": "Houston",
+    "latitude": 29.785068,
+    "longitude": -95.46735,
+    "name": "Subway",
+    "zip": 77024
+  },
+  {
+    "id": "AVwdXdB6IN2L1WUfvERL",
+    "city": "Dallas",
+    "latitude": 32.704867,
+    "longitude": -96.82811,
+    "name": "McDonald's",
+    "zip": 75224
+  },
+  {
+    "id": "AVwc9IrxIN2L1WUfqtYZ",
+    "city": "Kenedy",
+    "latitude": 28.815496,
+    "longitude": -97.857867,
+    "name": "Dairy Queen",
+    "zip": 78119
+  },
+  {
+    "id": "AVzBBjR4-gnIPe8DShij",
+    "city": "North Richland Hills",
+    "latitude": 32.902764,
+    "longitude": -97.195033,
+    "name": "SONIC Drive In",
+    "zip": 76182
+  },
+  {
+    "id": "AVwcnpuvByjofQCxgUGm",
+    "city": "Dallas",
+    "latitude": 32.909148,
+    "longitude": -96.856516,
+    "name": "Taco Bell",
+    "zip": 75234
+  },
+  {
+    "id": "AVweHOkM_7pvs4fzAJj4",
+    "city": "San Antonio",
+    "latitude": 29.481974,
+    "longitude": -98.542795,
+    "name": "SONIC Drive In",
+    "zip": 78201
+  },
+  {
+    "id": "AVzBB-iU-gnIPe8DSh5k",
+    "city": "Bryan",
+    "latitude": 30.694868,
+    "longitude": -96.362345,
+    "name": "Burger King",
+    "zip": 77803
+  },
+  {
+    "id": "AVwcrYEmByjofQCxg-Iw",
+    "city": "Plano",
+    "latitude": 33.018994,
+    "longitude": -96.734134,
+    "name": "McDonald's",
+    "zip": 75075
+  },
+  {
+    "id": "AVwcfRdeIN2L1WUflf2j",
+    "city": "Georgetown",
+    "latitude": 30.715828,
+    "longitude": -97.663819,
+    "name": "Quiznos",
+    "zip": 78628
+  },
+  {
+    "id": "AVwcqiB7kufWRAb5xr1D",
+    "city": "Rowlett",
+    "latitude": 32.915361,
+    "longitude": -96.520745,
+    "name": "Taco Bueno",
+    "zip": 75088
+  },
+  {
+    "id": "AVwcsDOhIN2L1WUfny8j",
+    "city": "Austin",
+    "latitude": 30.448117,
+    "longitude": -97.789305,
+    "name": "KFC",
+    "zip": 78750
+  },
+  {
+    "id": "AVwdcV7h_7pvs4fz59CT",
+    "city": "Houston",
+    "latitude": 29.703578,
+    "longitude": -95.641552,
+    "name": "Jack in the Box",
+    "zip": 77083
+  },
+  {
+    "id": "AV--rZ6q3-Khe5l_ZNEY",
+    "city": "Brazoria",
+    "latitude": 29.056836,
+    "longitude": -95.573359,
+    "name": "Domino's Pizza",
+    "zip": 77422
+  },
+  {
+    "id": "AVwcs3EIByjofQCxhOu5",
+    "city": "Dallas",
+    "latitude": 32.844734,
+    "longitude": -96.770525,
+    "name": "Jack in the Box",
+    "zip": 75206
+  },
+  {
+    "id": "AVwcs3EIByjofQCxhOu5",
+    "city": "Dallas",
+    "latitude": 32.844734,
+    "longitude": -96.770525,
+    "name": "Jack in the Box",
+    "zip": 75206
+  },
+  {
+    "id": "AVwch1rw_7pvs4fzwFlG",
+    "city": "Corsicana",
+    "latitude": 32.087414,
+    "longitude": -96.4714,
+    "name": "Taco Bell",
+    "zip": 75110
+  },
+  {
+    "id": "AWOnmOnj3-Khe5l_isHB",
+    "city": "Haskell",
+    "latitude": 33.170149,
+    "longitude": -99.73325,
+    "name": "Sonic Drive-In",
+    "zip": 79521
+  },
+  {
+    "id": "AVwcf9CBByjofQCxe6UQ",
+    "city": "San Antonio",
+    "latitude": 29.375625,
+    "longitude": -98.461741,
+    "name": "SONIC Drive In",
+    "zip": 78223
+  },
+  {
+    "id": "AVweNS6skufWRAb5A7wz",
+    "city": "San Antonio",
+    "latitude": 29.498362,
+    "longitude": -98.703894,
+    "name": "Pollo Tropical",
+    "zip": 78254
+  },
+  {
+    "id": "AWEacPdBa4HuVbedM9sD",
+    "city": "Whitehouse",
+    "latitude": 32.235493,
+    "longitude": -95.228496,
+    "name": "Mcdonalds Whitehouse",
+    "zip": 75791
+  },
+  {
+    "id": "AVweKxf_ByjofQCxv311",
+    "city": "Cypress",
+    "latitude": 29.936985,
+    "longitude": -95.649162,
+    "name": "Blimpie",
+    "zip": 77429
+  },
+  {
+    "id": "AVwdMzdz_7pvs4fz3UzY",
+    "city": "Duncanville",
+    "latitude": 32.662344,
+    "longitude": -96.905868,
+    "name": "Jack in the Box",
+    "zip": 75116
+  },
+  {
+    "id": "AVwdTIMDkufWRAb54cI1",
+    "city": "Round Rock",
+    "latitude": 30.510602,
+    "longitude": -97.687872,
+    "name": "Wendy's",
+    "zip": 78681
+  },
+  {
+    "id": "AVwdCi5IkufWRAb51q4M",
+    "city": "Elsa",
+    "latitude": 26.293074,
+    "longitude": -97.992806,
+    "name": "McDonald's",
+    "zip": 78543
+  },
+  {
+    "id": "AVwdk5lIByjofQCxqeNR",
+    "city": "San Antonio",
+    "latitude": 29.467927,
+    "longitude": -98.602174,
+    "name": "Church's Chicken",
+    "zip": 78228
+  },
+  {
+    "id": "AVwdKRrm_7pvs4fz24ge",
+    "city": "Longview",
+    "latitude": 32.45256,
+    "longitude": -94.707124,
+    "name": "SONIC Drive In",
+    "zip": 75602
+  },
+  {
+    "id": "AVwc2tAbByjofQCxi69k",
+    "city": "Longview",
+    "latitude": 32.539153,
+    "longitude": -94.754768,
+    "name": "Golden Chick",
+    "zip": 75605
+  },
+  {
+    "id": "AVwc4-aEByjofQCxjTUv",
+    "city": "Odessa",
+    "latitude": 31.89532,
+    "longitude": -102.335292,
+    "name": "Fazoli's",
+    "zip": 79762
+  },
+  {
+    "id": "AVwdA6MP_7pvs4fz1WsY",
+    "city": "Bonham",
+    "latitude": 33.591587,
+    "longitude": -96.193057,
+    "name": "SONIC Drive In",
+    "zip": 75418
+  },
+  {
+    "id": "AVwdRYehByjofQCxnWaI",
+    "city": "Houston",
+    "latitude": 29.61365,
+    "longitude": -95.446252,
+    "name": "Popeyes Louisiana Kitchen",
+    "zip": 77045
+  },
+  {
+    "id": "AVwds-DaByjofQCxrttw",
+    "city": "Early",
+    "latitude": 31.743327,
+    "longitude": -98.944341,
+    "name": "SONIC Drive In",
+    "zip": 76802
+  },
+  {
+    "id": "AV1tewyza4HuVbed8JIE",
+    "city": "Atlanta",
+    "latitude": 33.116343,
+    "longitude": -94.180814,
+    "name": "McDonald's",
+    "zip": 75551
+  },
+  {
+    "id": "AVwcsu6-kufWRAb5yEYn",
+    "city": "Laredo",
+    "latitude": 27.574722,
+    "longitude": -99.472833,
+    "name": "McDonald's",
+    "zip": 78045
+  },
+  {
+    "id": "AV50o8nsRxPSIh2RkFaM",
+    "city": "Edinburg",
+    "latitude": 26.267809,
+    "longitude": -98.204225,
+    "name": "McDonald's",
+    "zip": 78539
+  },
+  {
+    "id": "AVwck_4MkufWRAb5wuVM",
+    "city": "Portland",
+    "latitude": 27.880367,
+    "longitude": -97.318631,
+    "name": "Whataburger",
+    "zip": 78374
+  },
+  {
+    "id": "AVwejzooByjofQCxzXmR",
+    "city": "Round Rock",
+    "latitude": 30.486518,
+    "longitude": -97.677149,
+    "name": "Burger King",
+    "zip": 78681
+  },
+  {
+    "id": "AVwdp6hDByjofQCxrQex",
+    "city": "Killeen",
+    "latitude": 31.079343,
+    "longitude": -97.699536,
+    "name": "McDonald's",
+    "zip": 76543
+  },
+  {
+    "id": "AVwdFGSUkufWRAb52GDy",
+    "city": "Waco",
+    "latitude": 31.522468,
+    "longitude": -97.176539,
+    "name": "Dairy Queen",
+    "zip": 76710
+  },
+  {
+    "id": "AVwdeWx9_7pvs4fz6QjY",
+    "city": "Frisco",
+    "latitude": 33.141576,
+    "longitude": -96.804033,
+    "name": "SONIC Drive In",
+    "zip": 75034
+  },
+  {
+    "id": "AVwdD0bbByjofQCxlFn1",
+    "city": "Houston",
+    "latitude": 29.964818,
+    "longitude": -95.542549,
+    "name": "Panda Express",
+    "zip": 77070
+  },
+  {
+    "id": "AVwdpMcJByjofQCxrJTq",
+    "city": "El Paso",
+    "latitude": 31.831673,
+    "longitude": -106.531539,
+    "name": "KFC",
+    "zip": 79912
+  },
+  {
+    "id": "AVwc7Vhs_7pvs4fz0c15",
+    "city": "Del Rio",
+    "latitude": 29.374894,
+    "longitude": -100.901606,
+    "name": "Sonic Drive-In",
+    "zip": 78840
+  },
+  {
+    "id": "AVziRcmJFcQ3k02bCicW",
+    "city": "Port Lavaca",
+    "latitude": 28.632439,
+    "longitude": -96.626813,
+    "name": "SUBWAY",
+    "zip": 77979
+  },
+  {
+    "id": "AVweY3QDkufWRAb5CekP",
+    "city": "McAllen",
+    "latitude": 26.250076,
+    "longitude": -98.254918,
+    "name": "Burger King",
+    "zip": 78504
+  },
+  {
+    "id": "AVweY3QDkufWRAb5CekP",
+    "city": "McAllen",
+    "latitude": 26.250076,
+    "longitude": -98.254918,
+    "name": "Burger King",
+    "zip": 78504
+  },
+  {
+    "id": "AV1TsVOH3D1zeR_xFF4Y",
+    "city": "Dallas",
+    "latitude": 32.81674,
+    "longitude": -96.811804,
+    "name": "KFC - Kentucky Fried Chicken",
+    "zip": 75219
+  },
+  {
+    "id": "AVwdVLDLByjofQCxn-aU",
+    "city": "San Marcos",
+    "latitude": 29.884945,
+    "longitude": -97.940388,
+    "name": "Jack in the Box",
+    "zip": 78666
+  },
+  {
+    "id": "AVwciDw2ByjofQCxfR1j",
+    "city": "San Antonio",
+    "latitude": 29.422314,
+    "longitude": -98.650391,
+    "name": "Jack in the Box",
+    "zip": 78227
+  },
+  {
+    "id": "AVwdYG1JByjofQCxoeN6",
+    "city": "San Antonio",
+    "latitude": 29.356405,
+    "longitude": -98.503508,
+    "name": "Jack in the Box",
+    "zip": 78221
+  },
+  {
+    "id": "AVwckuaI_7pvs4fzwm1w",
+    "city": "San Antonio",
+    "latitude": 29.398707,
+    "longitude": -98.387562,
+    "name": "Jack in the Box",
+    "zip": 78222
+  },
+  {
+    "id": "AVwc55ZD_7pvs4fz0NUr",
+    "city": "San Antonio",
+    "latitude": 29.483751,
+    "longitude": -98.401779,
+    "name": "Jack in the Box",
+    "zip": 78218
+  },
+  {
+    "id": "AVwdQgrfByjofQCxnM2x",
+    "city": "Rosenberg",
+    "latitude": 29.533497,
+    "longitude": -95.808139,
+    "name": "Jack in the Box",
+    "zip": 77471
+  },
+  {
+    "id": "AVwd8l7BIN2L1WUf0ny1",
+    "city": "Richardson",
+    "latitude": 32.950518,
+    "longitude": -96.736679,
+    "name": "Jack in the Box",
+    "zip": 75080
+  },
+  {
+    "id": "AVweERP1_7pvs4fz_vuw",
+    "city": "Pearland",
+    "latitude": 29.546536,
+    "longitude": -95.276975,
+    "name": "Jack in the Box",
+    "zip": 77581
+  },
+  {
+    "id": "AVwdEOi2_7pvs4fz15--",
+    "city": "Pasadena",
+    "latitude": 29.697642,
+    "longitude": -95.200676,
+    "name": "Jack in the Box",
+    "zip": 77506
+  },
+  {
+    "id": "AVwc06MWkufWRAb5zcNN",
+    "city": "Palestine",
+    "latitude": 31.745393,
+    "longitude": -95.654627,
+    "name": "Jack in the Box",
+    "zip": 75801
+  },
+  {
+    "id": "AVzBAeyn3D1zeR_xBEAN",
+    "city": "North Richland Hills",
+    "latitude": 32.813067,
+    "longitude": -97.24213,
+    "name": "Jack in the Box",
+    "zip": 76180
+  },
+  {
+    "id": "AVzBAeyn3D1zeR_xBEAN",
+    "city": "North Richland Hills",
+    "latitude": 32.813067,
+    "longitude": -97.24213,
+    "name": "Jack in the Box",
+    "zip": 76180
+  },
+  {
+    "id": "AVwdRXIKIN2L1WUfuDW6",
+    "city": "Sugar Land",
+    "latitude": 29.598216,
+    "longitude": -95.625909,
+    "name": "Pei Wei",
+    "zip": 77479
+  },
+  {
+    "id": "AVwdcuODIN2L1WUfv8DQ",
+    "city": "San Antonio",
+    "latitude": 29.54704,
+    "longitude": -98.57684,
+    "name": "Pei Wei",
+    "zip": 78230
+  },
+  {
+    "id": "AVwd68vekufWRAb5-aYp",
+    "city": "Houston",
+    "latitude": 29.654532,
+    "longitude": -95.569522,
+    "name": "Wendy's",
+    "zip": 77099
+  },
+  {
+    "id": "AVwd68vekufWRAb5-aYp",
+    "city": "Houston",
+    "latitude": 29.654532,
+    "longitude": -95.569522,
+    "name": "Wendy's",
+    "zip": 77099
+  },
+  {
+    "id": "AVwddD_mByjofQCxpSiO",
+    "city": "Dallas",
+    "latitude": 32.881752,
+    "longitude": -96.856112,
+    "name": "Wendy's",
+    "zip": 75229
+  },
+  {
+    "id": "AVwc5hqwkufWRAb50NDh",
+    "city": "Austin",
+    "latitude": 30.300467,
+    "longitude": -97.719643,
+    "name": "Wendy's",
+    "zip": 78751
+  },
+  {
+    "id": "AVwctZsnByjofQCxhUcf",
+    "city": "Houston",
+    "latitude": 29.757565,
+    "longitude": -95.368083,
+    "name": "Wendy's",
+    "zip": 77002
+  },
+  {
+    "id": "AVwc2nmDIN2L1WUfpnHL",
+    "city": "Forney",
+    "latitude": 32.742924,
+    "longitude": -96.44661,
+    "name": "Wendy's",
+    "zip": 75126
+  },
+  {
+    "id": "AVwdfwCzkufWRAb56dwh",
+    "city": "Dallas",
+    "latitude": 32.877795,
+    "longitude": -96.700884,
+    "name": "Sonic",
+    "zip": 75238
+  },
+  {
+    "id": "AVwc2Fds_7pvs4fzzkG7",
+    "city": "Houston",
+    "latitude": 29.701766,
+    "longitude": -95.359892,
+    "name": "McDonald's",
+    "zip": 77021
+  },
+  {
+    "id": "AVwd1tVyByjofQCxs9kA",
+    "city": "Pasadena",
+    "latitude": 29.684475,
+    "longitude": -95.155544,
+    "name": "McDonald's",
+    "zip": 77503
+  },
+  {
+    "id": "AVwd1tVyByjofQCxs9kA",
+    "city": "Pasadena",
+    "latitude": 29.684475,
+    "longitude": -95.155544,
+    "name": "McDonald's",
+    "zip": 77503
+  },
+  {
+    "id": "AV1b9IiD-gnIPe8DXEQO",
+    "city": "Bowie",
+    "latitude": 33.550876,
+    "longitude": -97.836264,
+    "name": "Golden Chick",
+    "zip": 76230
+  },
+  {
+    "id": "AVwc6D-WIN2L1WUfqMfN",
+    "city": "Austin",
+    "latitude": 30.208436,
+    "longitude": -97.781257,
+    "name": "Golden Chick",
+    "zip": 78745
+  },
+  {
+    "id": "AVwc6D-WIN2L1WUfqMfN",
+    "city": "Austin",
+    "latitude": 30.208436,
+    "longitude": -97.781257,
+    "name": "Golden Chick",
+    "zip": 78745
+  },
+  {
+    "id": "AVwd-gmg_7pvs4fz-8MQ",
+    "city": "Austin",
+    "latitude": 30.365671,
+    "longitude": -97.695913,
+    "name": "Golden Chick",
+    "zip": 78753
+  },
+  {
+    "id": "AVweL3dHkufWRAb5AvS0",
+    "city": "Pasadena",
+    "latitude": 29.650254,
+    "longitude": -95.158436,
+    "name": "Burger King",
+    "zip": 77505
+  },
+  {
+    "id": "AVwdqi5D_7pvs4fz8IHm",
+    "city": "Whitesboro",
+    "latitude": 33.638354,
+    "longitude": -96.90817,
+    "name": "Golden Chick",
+    "zip": 76273
+  },
+  {
+    "id": "AVwcljLp_7pvs4fzwwAu",
+    "city": "Pleasanton",
+    "latitude": 28.945029,
+    "longitude": -98.505655,
+    "name": "Golden Chick",
+    "zip": 78064
+  },
+  {
+    "id": "AVwc4dQMIN2L1WUfp6vq",
+    "city": "Refugio",
+    "latitude": 28.308218,
+    "longitude": -97.274514,
+    "name": "Golden Chick",
+    "zip": 78377
+  },
+  {
+    "id": "AVzBArfWFcQ3k02bBbk8",
+    "city": "San Marcos",
+    "latitude": 29.880405,
+    "longitude": -97.940615,
+    "name": "Golden Chick",
+    "zip": 78666
+  },
+  {
+    "id": "AVwdifONIN2L1WUfwzjH",
+    "city": "Mesquite",
+    "latitude": 32.823895,
+    "longitude": -96.647264,
+    "name": "Golden Chick",
+    "zip": 75150
+  },
+  {
+    "id": "AV1gm1zw3-Khe5l_NfMQ",
+    "city": "Mineral Wells",
+    "latitude": 32.810808,
+    "longitude": -98.0862,
+    "name": "Golden Chick",
+    "zip": 76067
+  },
+  {
+    "id": "AV1c5TPba4HuVbed5ukd",
+    "city": "Weatherford",
+    "latitude": 32.757579,
+    "longitude": -97.711056,
+    "name": "Golden Chick",
+    "zip": 76087
+  },
+  {
+    "id": "AVwcf7PykufWRAb5vz5N",
+    "city": "Harker Heights",
+    "latitude": 31.077974,
+    "longitude": -97.655563,
+    "name": "Golden Chick",
+    "zip": 76548
+  },
+  {
+    "id": "AVweLgzS_7pvs4fzAvCE",
+    "city": "Denton",
+    "latitude": 33.216705,
+    "longitude": -97.127899,
+    "name": "Golden Chick",
+    "zip": 76209
+  },
+  {
+    "id": "AVweLgzS_7pvs4fzAvCE",
+    "city": "Denton",
+    "latitude": 33.216705,
+    "longitude": -97.127899,
+    "name": "Golden Chick",
+    "zip": 76209
+  },
+  {
+    "id": "AVwcjLDz_7pvs4fzwVDd",
+    "city": "Houston",
+    "latitude": 29.70524,
+    "longitude": -95.482735,
+    "name": "Jack in the Box",
+    "zip": 77081
+  },
+  {
+    "id": "AVwdKQj2ByjofQCxmHpP",
+    "city": "Humble",
+    "latitude": 29.983677,
+    "longitude": -95.281036,
+    "name": "Jack in the Box",
+    "zip": 77338
+  },
+  {
+    "id": "AVwdyBHD_7pvs4fz9N2J",
+    "city": "Houston",
+    "latitude": 29.655341,
+    "longitude": -95.52844,
+    "name": "Jack in the Box",
+    "zip": 77031
+  },
+  {
+    "id": "AVwcepke_7pvs4fzvfyC",
+    "city": "Houston",
+    "latitude": 29.736895,
+    "longitude": -95.589435,
+    "name": "Jack in the Box",
+    "zip": 77077
+  },
+  {
+    "id": "AVwdHElFByjofQCxlm26",
+    "city": "Houston",
+    "latitude": 29.848141,
+    "longitude": -95.301734,
+    "name": "Jack in the Box",
+    "zip": 77016
+  },
+  {
+    "id": "AVzA-iRMLD2H7whiWIck",
+    "city": "Houston",
+    "latitude": 29.850628,
+    "longitude": -95.505783,
+    "name": "Jack in the Box",
+    "zip": 77040
+  },
+  {
+    "id": "AVwdm-I7_7pvs4fz7kyy",
+    "city": "Houston",
+    "latitude": 29.992962,
+    "longitude": -95.487221,
+    "name": "Jack in the Box",
+    "zip": 77014
+  },
+  {
+    "id": "AVwcvn0Z_7pvs4fzyfsu",
+    "city": "Houston",
+    "latitude": 29.666788,
+    "longitude": -95.33639,
+    "name": "Jack in the Box",
+    "zip": 77033
+  },
+  {
+    "id": "AVwcjIJ3IN2L1WUfmL4e",
+    "city": "Houston",
+    "latitude": 29.834049,
+    "longitude": -95.645103,
+    "name": "Jack in the Box",
+    "zip": 77084
+  },
+  {
+    "id": "AVwck1SckufWRAb5wsil",
+    "city": "Houston",
+    "latitude": 29.870587,
+    "longitude": -95.351019,
+    "name": "Jack in the Box",
+    "zip": 77093
+  },
+  {
+    "id": "AVwdjdvK_7pvs4fz7Bzx",
+    "city": "Houston",
+    "latitude": 29.920602,
+    "longitude": -95.494108,
+    "name": "Jack in the Box",
+    "zip": 77086
+  },
+  {
+    "id": "AVwcqudJByjofQCxg2qK",
+    "city": "Houston",
+    "latitude": 29.841345,
+    "longitude": -95.47286,
+    "name": "Jack in the Box",
+    "zip": 77091
+  },
+  {
+    "id": "AVwc3bt5ByjofQCxjC6A",
+    "city": "Houston",
+    "latitude": 29.924899,
+    "longitude": -95.628011,
+    "name": "Jack in the Box",
+    "zip": 77065
+  },
+  {
+    "id": "AVwdT3HHByjofQCxnwoX",
+    "city": "Houston",
+    "latitude": 29.833015,
+    "longitude": -95.523275,
+    "name": "Jack in the Box",
+    "zip": 77080
+  },
+  {
+    "id": "AVwd0sxy_7pvs4fz9lmA",
+    "city": "Houston",
+    "latitude": 29.939875,
+    "longitude": -95.384507,
+    "name": "Jack in the Box",
+    "zip": 77060
+  },
+  {
+    "id": "AVwdoQzqIN2L1WUfxtIa",
+    "city": "Houston",
+    "latitude": 29.961435,
+    "longitude": -95.477959,
+    "name": "Jack in the Box",
+    "zip": 77067
+  },
+  {
+    "id": "AVzA9g4XFcQ3k02bBZqm",
+    "city": "Houston",
+    "latitude": 29.790985,
+    "longitude": -95.162959,
+    "name": "Jack in the Box",
+    "zip": 77015
+  },
+  {
+    "id": "AVwcmNhZ_7pvs4fzw3go",
+    "city": "Houston",
+    "latitude": 29.850325,
+    "longitude": -95.605675,
+    "name": "Jack in the Box",
+    "zip": 77041
+  },
+  {
+    "id": "AVwcpj0b_7pvs4fzxdUb",
+    "city": "Houston",
+    "latitude": 29.922596,
+    "longitude": -95.604219,
+    "name": "Jack in the Box",
+    "zip": 77065
+  },
+  {
+    "id": "AVwcpj0b_7pvs4fzxdUb",
+    "city": "Houston",
+    "latitude": 29.922596,
+    "longitude": -95.604219,
+    "name": "Jack in the Box",
+    "zip": 77065
+  },
+  {
+    "id": "AVwc5mQfkufWRAb50N9b",
+    "city": "Houston",
+    "latitude": 29.75775,
+    "longitude": -95.398514,
+    "name": "Jack in the Box",
+    "zip": 77019
+  },
+  {
+    "id": "AVwc2pnWByjofQCxi6Xi",
+    "city": "Houston",
+    "latitude": 29.981197,
+    "longitude": -95.423434,
+    "name": "Jack in the Box",
+    "zip": 77090
+  },
+  {
+    "id": "AVweNTXY_7pvs4fzA_Fg",
+    "city": "Cypress",
+    "latitude": 29.947997,
+    "longitude": -95.675953,
+    "name": "Jack in the Box",
+    "zip": 77433
+  },
+  {
+    "id": "AVwd9fhzIN2L1WUf0v68",
+    "city": "Houston",
+    "latitude": 29.802745,
+    "longitude": -95.493479,
+    "name": "Jack in the Box",
+    "zip": 77055
+  },
+  {
+    "id": "AVwc0rG5IN2L1WUfpSW4",
+    "city": "Houston",
+    "latitude": 29.715562,
+    "longitude": -95.498505,
+    "name": "Jack in the Box",
+    "zip": 77081
+  },
+  {
+    "id": "AV1c5S2LRxPSIh2RYwZr",
+    "city": "Fort Worth",
+    "latitude": 32.758332,
+    "longitude": -97.166618,
+    "name": "Taco Bell",
+    "zip": 76120
+  },
+  {
+    "id": "AVwct8HvkufWRAb5yRZ0",
+    "city": "Tyler",
+    "latitude": 32.329859,
+    "longitude": -95.300659,
+    "name": "Pizza Hut",
+    "zip": 75701
+  },
+  {
+    "id": "AVwdmNIk_7pvs4fz7c4d",
+    "city": "Houston",
+    "latitude": 29.755273,
+    "longitude": -95.363045,
+    "name": "Chick-fil-A",
+    "zip": 77010
+  },
+  {
+    "id": "AVwdXt--IN2L1WUfvHOJ",
+    "city": "Grapevine",
+    "latitude": 32.928141,
+    "longitude": -97.086134,
+    "name": "Chick-fil-A",
+    "zip": 76051
+  },
+  {
+    "id": "AVwdUBK8IN2L1WUfufUI",
+    "city": "El Paso",
+    "latitude": 31.816812,
+    "longitude": -106.543191,
+    "name": "Chick-fil-A",
+    "zip": 79912
+  },
+  {
+    "id": "AVwdfJ_4kufWRAb56YDz",
+    "city": "Dallas",
+    "latitude": 32.998041,
+    "longitude": -96.83155,
+    "name": "Chick-fil-A",
+    "zip": 75287
+  },
+  {
+    "id": "AVwdfJ_4kufWRAb56YDz",
+    "city": "Dallas",
+    "latitude": 32.998041,
+    "longitude": -96.83155,
+    "name": "Chick-fil-A",
+    "zip": 75287
+  },
+  {
+    "id": "AVwctHCbIN2L1WUfn-Ox",
+    "city": "Corpus Christi",
+    "latitude": 27.709606,
+    "longitude": -97.3734,
+    "name": "Chick-fil-A",
+    "zip": 78411
+  },
+  {
+    "id": "AVwdcYjWIN2L1WUfv4Zp",
+    "city": "Kingwood",
+    "latitude": 30.068211,
+    "longitude": -95.210536,
+    "name": "Jack in the Box",
+    "zip": 77339
+  },
+  {
+    "id": "AVwdEPuwIN2L1WUfr3km",
+    "city": "Kerrville",
+    "latitude": 30.050382,
+    "longitude": -99.137187,
+    "name": "Jack in the Box",
+    "zip": 78028
+  },
+  {
+    "id": "AVwdEPuwIN2L1WUfr3km",
+    "city": "Kerrville",
+    "latitude": 30.050382,
+    "longitude": -99.137187,
+    "name": "Jack in the Box",
+    "zip": 78028
+  },
+  {
+    "id": "AVwea9tPByjofQCxyCoD",
+    "city": "Irving",
+    "latitude": 32.837289,
+    "longitude": -96.951946,
+    "name": "Jack in the Box",
+    "zip": 75062
+  },
+  {
+    "id": "AV--r-aPRxPSIh2RmvY8",
+    "city": "Austin",
+    "latitude": 30.385807,
+    "longitude": -97.942756,
+    "name": "Subway",
+    "zip": 78734
+  },
+  {
+    "id": "AV1TszqAFcQ3k02bFk_P",
+    "city": "Austin",
+    "latitude": 30.16598,
+    "longitude": -97.69252,
+    "name": "Subway",
+    "zip": 78744
+  },
+  {
+    "id": "AVwcpN87ByjofQCxgl5I",
+    "city": "Austin",
+    "latitude": 30.394463,
+    "longitude": -97.720675,
+    "name": "Subway",
+    "zip": 78758
+  },
+  {
+    "id": "AVwczSAMIN2L1WUfpCoE",
+    "city": "Austin",
+    "latitude": 30.369553,
+    "longitude": -97.801748,
+    "name": "Subway",
+    "zip": 78750
+  },
+  {
+    "id": "AVwcpT_LkufWRAb5xeoN",
+    "city": "Austin",
+    "latitude": 30.375423,
+    "longitude": -97.67237,
+    "name": "Subway",
+    "zip": 78753
+  },
+  {
+    "id": "AVwcu2sH_7pvs4fzyW4M",
+    "city": "Austin",
+    "latitude": 30.335478,
+    "longitude": -97.717706,
+    "name": "Subway",
+    "zip": 78752
+  },
+  {
+    "id": "AVwedNcJIN2L1WUf5FnS",
+    "city": "Waxahachie",
+    "latitude": 32.423705,
+    "longitude": -96.852217,
+    "name": "Chick-fil-A",
+    "zip": 75165
+  },
+  {
+    "id": "AV1tftngRxPSIh2RbTxb",
+    "city": "Weatherford",
+    "latitude": 32.72334,
+    "longitude": -97.785822,
+    "name": "Chick-fil-A",
+    "zip": 76087
+  },
+  {
+    "id": "AVwd8jLN_7pvs4fz-qD_",
+    "city": "Waco",
+    "latitude": 31.526307,
+    "longitude": -97.163584,
+    "name": "Chick-fil-A",
+    "zip": 76710
+  },
+  {
+    "id": "AV1b9-Ji3D1zeR_xFcMh",
+    "city": "Mineral Wells",
+    "latitude": 32.809159,
+    "longitude": -98.096445,
+    "name": "Jack in the Box",
+    "zip": 76067
+  },
+  {
+    "id": "AWBAJm5Ba4HuVbedJnpV",
+    "city": "Pearland",
+    "latitude": 29.5437,
+    "longitude": -95.2234,
+    "name": "Arby's",
+    "zip": 77581
+  },
+  {
+    "id": "AVwdKl5SByjofQCxmLVj",
+    "city": "San Antonio",
+    "latitude": 29.35567,
+    "longitude": -98.542715,
+    "name": "Starbucks Coffee",
+    "zip": 78224
+  },
+  {
+    "id": "AVwct5vukufWRAb5yQ_D",
+    "city": "Dallas",
+    "latitude": 32.779062,
+    "longitude": -96.859145,
+    "name": "Pizza Hut",
+    "zip": 75212
+  },
+  {
+    "id": "AVwc2_DdIN2L1WUfprHC",
+    "city": "Houston",
+    "latitude": 29.869301,
+    "longitude": -95.327175,
+    "name": "Pizza Hut",
+    "zip": 77093
+  },
+  {
+    "id": "AVwdcwTEByjofQCxpPi6",
+    "city": "Spring",
+    "latitude": 30.039622,
+    "longitude": -95.487995,
+    "name": "Pizza Hut",
+    "zip": 77379
+  },
+  {
+    "id": "AVzdBG8pFcQ3k02bCUlW",
+    "city": "Edna",
+    "latitude": 28.984005,
+    "longitude": -96.649937,
+    "name": "McDonald's",
+    "zip": 77957
+  },
+  {
+    "id": "AVwcfrF5IN2L1WUflkXt",
+    "city": "Houston",
+    "latitude": 29.734484,
+    "longitude": -95.624289,
+    "name": "Panda Express",
+    "zip": 77082
+  },
+  {
+    "id": "AVwd5aNqByjofQCxtddj",
+    "city": "Nederland",
+    "latitude": 29.956274,
+    "longitude": -94.006475,
+    "name": "McDonald's",
+    "zip": 77627
+  },
+  {
+    "id": "AVwddR9CByjofQCxpUpP",
+    "city": "Dallas",
+    "latitude": 32.865232,
+    "longitude": -96.864162,
+    "name": "McDonald's",
+    "zip": 75220
+  },
+  {
+    "id": "AVwdQmt5kufWRAb54A6K",
+    "city": "Texas City",
+    "latitude": 29.394933,
+    "longitude": -94.949651,
+    "name": "McDonald's",
+    "zip": 77590
+  },
+  {
+    "id": "AVwdJjL9kufWRAb52zBS",
+    "city": "San Antonio",
+    "latitude": 29.449888,
+    "longitude": -98.569681,
+    "name": "McDonald's",
+    "zip": 78228
+  },
+  {
+    "id": "AVwchcPkIN2L1WUfl3Tn",
+    "city": "Houston",
+    "latitude": 29.705992,
+    "longitude": -95.411102,
+    "name": "McDonald's",
+    "zip": 77030
+  },
+  {
+    "id": "AVwchcPkIN2L1WUfl3Tn",
+    "city": "Houston",
+    "latitude": 29.705992,
+    "longitude": -95.411102,
+    "name": "McDonald's",
+    "zip": 77030
+  },
+  {
+    "id": "AVwc4guxkufWRAb50Bjw",
+    "city": "Rosenberg",
+    "latitude": 29.532632,
+    "longitude": -95.808132,
+    "name": "McDonald's",
+    "zip": 77471
+  },
+  {
+    "id": "AVwc4guxkufWRAb50Bjw",
+    "city": "Rosenberg",
+    "latitude": 29.532632,
+    "longitude": -95.808132,
+    "name": "McDonald's",
+    "zip": 77471
+  },
+  {
+    "id": "AVwckvA4_7pvs4fzwm8d",
+    "city": "Garland",
+    "latitude": 32.876019,
+    "longitude": -96.619041,
+    "name": "McDonald's",
+    "zip": 75043
+  },
+  {
+    "id": "AVwdFw3jIN2L1WUfsGpR",
+    "city": "Corpus Christi",
+    "latitude": 27.728157,
+    "longitude": -97.412907,
+    "name": "McDonald's",
+    "zip": 78415
+  },
+  {
+    "id": "AVwdd2WhkufWRAb56MQg",
+    "city": "Wichita Falls",
+    "latitude": 33.875752,
+    "longitude": -98.539921,
+    "name": "McDonald's",
+    "zip": 76308
+  },
+  {
+    "id": "AVwdMg13_7pvs4fz3Ref",
+    "city": "Uvalde",
+    "latitude": 29.22507,
+    "longitude": -99.76074,
+    "name": "McDonald's",
+    "zip": 78801
+  },
+  {
+    "id": "AV0HgbaH-gnIPe8DUwFT",
+    "city": "Baytown",
+    "latitude": 29.730854,
+    "longitude": -94.957348,
+    "name": "McDonald's",
+    "zip": 77520
+  },
+  {
+    "id": "AVwdrWst_7pvs4fz8QjN",
+    "city": "Irving",
+    "latitude": 32.81333,
+    "longitude": -96.949059,
+    "name": "McDonald's",
+    "zip": 75060
+  },
+  {
+    "id": "AVwdrWst_7pvs4fz8QjN",
+    "city": "Irving",
+    "latitude": 32.81333,
+    "longitude": -96.949059,
+    "name": "McDonald's",
+    "zip": 75060
+  },
+  {
+    "id": "AVwc3i_JIN2L1WUfpxRr",
+    "city": "League City",
+    "latitude": 29.542261,
+    "longitude": -95.062091,
+    "name": "McDonald's",
+    "zip": 77573
+  },
+  {
+    "id": "AVwdQ4AzByjofQCxnROh",
+    "city": "San Antonio",
+    "latitude": 29.385978,
+    "longitude": -98.524592,
+    "name": "McDonald's",
+    "zip": 78225
+  },
+  {
+    "id": "AVwdntmtkufWRAb57rkJ",
+    "city": "Mesquite",
+    "latitude": 32.807326,
+    "longitude": -96.626159,
+    "name": "McDonald's",
+    "zip": 75150
+  },
+  {
+    "id": "AVwcw6kuIN2L1WUfook5",
+    "city": "Tyler",
+    "latitude": 32.332342,
+    "longitude": -95.265974,
+    "name": "McDonald's",
+    "zip": 75701
+  },
+  {
+    "id": "AV1b9GyFFcQ3k02bF8Y8",
+    "city": "Victoria",
+    "latitude": 28.808265,
+    "longitude": -96.982816,
+    "name": "McDonald's",
+    "zip": 77901
+  },
+  {
+    "id": "AVwc0GpaByjofQCxiego",
+    "city": "Dallas",
+    "latitude": 32.748901,
+    "longitude": -96.922344,
+    "name": "McDonald's",
+    "zip": 75211
+  },
+  {
+    "id": "AV1gTcSk3-Khe5l_NRVU",
+    "city": "Texarkana",
+    "latitude": 33.418244,
+    "longitude": -94.099072,
+    "name": "McDonald's",
+    "zip": 75501
+  },
+  {
+    "id": "AV1tff58RxPSIh2RbST1",
+    "city": "Cleveland",
+    "latitude": 30.336035,
+    "longitude": -95.098822,
+    "name": "McDonald's",
+    "zip": 77327
+  },
+  {
+    "id": "AVwc8hR9_7pvs4fz0pBq",
+    "city": "San Antonio",
+    "latitude": 29.466349,
+    "longitude": -98.616849,
+    "name": "Chick-fil-A",
+    "zip": 78238
+  },
+  {
+    "id": "AVwd_WmEkufWRAb5_B-I",
+    "city": "San Antonio",
+    "latitude": 29.610421,
+    "longitude": -98.508311,
+    "name": "Chick-fil-A",
+    "zip": 78258
+  },
+  {
+    "id": "AVwdGcJHkufWRAb52Tmt",
+    "city": "San Angelo",
+    "latitude": 31.428489,
+    "longitude": -100.49591,
+    "name": "Chick-fil-A",
+    "zip": 76904
+  },
+  {
+    "id": "AVwcgpDwkufWRAb5v71K",
+    "city": "Odessa",
+    "latitude": 31.891381,
+    "longitude": -102.343803,
+    "name": "Chick-fil-A",
+    "zip": 79762
+  },
+  {
+    "id": "AVwd9ymKkufWRAb5-z0I",
+    "city": "Mesquite",
+    "latitude": 32.807268,
+    "longitude": -96.626141,
+    "name": "Chick-fil-A",
+    "zip": 75150
+  },
+  {
+    "id": "AVwcsMHE_7pvs4fzx6mP",
+    "city": "Mansfield",
+    "latitude": 32.574975,
+    "longitude": -97.133147,
+    "name": "Chick-fil-A",
+    "zip": 76063
+  },
+  {
+    "id": "AVwdNgii_7pvs4fz3cVO",
+    "city": "Austin",
+    "latitude": 30.339992,
+    "longitude": -97.738675,
+    "name": "Church's Chicken",
+    "zip": 73301
+  },
+  {
+    "id": "AVwdNgii_7pvs4fz3cVO",
+    "city": "Austin",
+    "latitude": 30.339992,
+    "longitude": -97.738675,
+    "name": "Church's Chicken",
+    "zip": 73301
+  },
+  {
+    "id": "AVwda2CxIN2L1WUfvn1i",
+    "city": "Irving",
+    "latitude": 32.841365,
+    "longitude": -96.976123,
+    "name": "Church's Chicken",
+    "zip": 75062
+  },
+  {
+    "id": "AVwduoUu_7pvs4fz8uNj",
+    "city": "Canton",
+    "latitude": 32.544558,
+    "longitude": -95.863594,
+    "name": "Church's Chicken",
+    "zip": 75103
+  },
+  {
+    "id": "AVwcggXzByjofQCxe_6i",
+    "city": "Irving",
+    "latitude": 32.800629,
+    "longitude": -96.974817,
+    "name": "Sonic",
+    "zip": 75060
+  },
+  {
+    "id": "AVwdhr5DIN2L1WUfwr9T",
+    "city": "Spring",
+    "latitude": 30.166986,
+    "longitude": -95.462236,
+    "name": "Taco Bell",
+    "zip": 77380
+  },
+  {
+    "id": "AVzA-sMu3D1zeR_xBDJT",
+    "city": "La Porte",
+    "latitude": 29.664544,
+    "longitude": -95.099316,
+    "name": "Taco Bell",
+    "zip": 77571
+  },
+  {
+    "id": "AV1b9SjT-gnIPe8DXEik",
+    "city": "Childress",
+    "latitude": 34.436378,
+    "longitude": -100.232426,
+    "name": "Taco Bell",
+    "zip": 79201
+  },
+  {
+    "id": "AVwduFpf_7pvs4fz8pTg",
+    "city": "Dallas",
+    "latitude": 32.662997,
+    "longitude": -96.824485,
+    "name": "McDonald's",
+    "zip": 75232
+  },
+  {
+    "id": "AVwc3joOIN2L1WUfpxbW",
+    "city": "Corpus Christi",
+    "latitude": 27.66579,
+    "longitude": -97.284009,
+    "name": "McDonald's",
+    "zip": 78418
+  },
+  {
+    "id": "AVwdXPAaIN2L1WUfvCE4",
+    "city": "Sulphur Springs",
+    "latitude": 33.115805,
+    "longitude": -95.596189,
+    "name": "McDonald's",
+    "zip": 75482
+  },
+  {
+    "id": "AVwc0VZAIN2L1WUfpOc6",
+    "city": "Waco",
+    "latitude": 31.530868,
+    "longitude": -97.188088,
+    "name": "McDonald's",
+    "zip": 76710
+  },
+  {
+    "id": "AVwdADJzIN2L1WUfrLjd",
+    "city": "Conroe",
+    "latitude": 30.367016,
+    "longitude": -95.483983,
+    "name": "McDonald's",
+    "zip": 77303
+  },
+  {
+    "id": "AVwdIqQWkufWRAb52pil",
+    "city": "Houston",
+    "latitude": 29.628592,
+    "longitude": -95.229156,
+    "name": "McDonald's",
+    "zip": 77034
+  },
+  {
+    "id": "AVwc3OEdByjofQCxjAn-",
+    "city": "Tomball",
+    "latitude": 30.099173,
+    "longitude": -95.593525,
+    "name": "McDonald's",
+    "zip": 77375
+  },
+  {
+    "id": "AVweEM4Q_7pvs4fz_vGq",
+    "city": "Port Arthur",
+    "latitude": 29.884902,
+    "longitude": -93.941839,
+    "name": "McDonald's",
+    "zip": 77640
+  },
+  {
+    "id": "AVwdKUXS_7pvs4fz249R",
+    "city": "San Antonio",
+    "latitude": 29.550362,
+    "longitude": -98.66441,
+    "name": "McDonald's",
+    "zip": 78250
+  },
+  {
+    "id": "AVwefQAQIN2L1WUf5ZoN",
+    "city": "Hereford",
+    "latitude": 34.808666,
+    "longitude": -102.411204,
+    "name": "McDonald's",
+    "zip": 79045
+  },
+  {
+    "id": "AVwefQAQIN2L1WUf5ZoN",
+    "city": "Hereford",
+    "latitude": 34.808666,
+    "longitude": -102.411204,
+    "name": "McDonald's",
+    "zip": 79045
+  },
+  {
+    "id": "AVwcuyTVByjofQCxhjdl",
+    "city": "Fort Worth",
+    "latitude": 32.650927,
+    "longitude": -97.375115,
+    "name": "Arby's",
+    "zip": 76133
+  },
+  {
+    "id": "AVwckiszIN2L1WUfmc-G",
+    "city": "El Paso",
+    "latitude": 31.776714,
+    "longitude": -106.433291,
+    "name": "Arby's",
+    "zip": 79905
+  },
+  {
+    "id": "AVwckiszIN2L1WUfmc-G",
+    "city": "El Paso",
+    "latitude": 31.776714,
+    "longitude": -106.433291,
+    "name": "Arby's",
+    "zip": 79905
+  },
+  {
+    "id": "AVwdNL6-_7pvs4fz3ZG7",
+    "city": "El Paso",
+    "latitude": 31.833896,
+    "longitude": -106.538951,
+    "name": "Arby's",
+    "zip": 79912
+  },
+  {
+    "id": "AVwdJEw7kufWRAb52t2Z",
+    "city": "El Paso",
+    "latitude": 31.761541,
+    "longitude": -106.268925,
+    "name": "Arby's",
+    "zip": 79936
+  },
+  {
+    "id": "AVweDddvkufWRAb5_mW9",
+    "city": "Spring",
+    "latitude": 30.05323,
+    "longitude": -95.433976,
+    "name": "Jack in the Box",
+    "zip": 77388
+  },
+  {
+    "id": "AVwdp2KlByjofQCxrP1h",
+    "city": "Sherman",
+    "latitude": 33.649178,
+    "longitude": -96.613682,
+    "name": "Jack in the Box",
+    "zip": 75092
+  },
+  {
+    "id": "AVwdskUeByjofQCxrqDz",
+    "city": "Allen",
+    "latitude": 33.088283,
+    "longitude": -96.671585,
+    "name": "Wienerschnitzel",
+    "zip": 75002
+  },
+  {
+    "id": "AVwcljBZ_7pvs4fzwv-e",
+    "city": "Garland",
+    "latitude": 32.857737,
+    "longitude": -96.646521,
+    "name": "McDonald's",
+    "zip": 75041
+  },
+  {
+    "id": "AVwdG7L7kufWRAb52YY4",
+    "city": "Cedar Park",
+    "latitude": 30.521355,
+    "longitude": -97.830988,
+    "name": "McDonald's",
+    "zip": 78613
+  },
+  {
+    "id": "AVwdWEyf_7pvs4fz46AT",
+    "city": "Alvin",
+    "latitude": 29.400726,
+    "longitude": -95.246399,
+    "name": "McDonald's",
+    "zip": 77511
+  },
+  {
+    "id": "AVwdMQPWIN2L1WUftK_m",
+    "city": "El Paso",
+    "latitude": 31.752952,
+    "longitude": -106.344295,
+    "name": "McDonald's",
+    "zip": 79925
+  },
+  {
+    "id": "AV1gf4Ix3-Khe5l_NUvZ",
+    "city": "Woodville",
+    "latitude": 30.764683,
+    "longitude": -94.415971,
+    "name": "McDonald's",
+    "zip": 75979
+  },
+  {
+    "id": "AVwcfoZe_7pvs4fzvrmP",
+    "city": "Houston",
+    "latitude": 29.688278,
+    "longitude": -95.567754,
+    "name": "McDonald's",
+    "zip": 77072
+  },
+  {
+    "id": "AVwdombCIN2L1WUfxwa2",
+    "city": "Carrollton",
+    "latitude": 32.999036,
+    "longitude": -96.910883,
+    "name": "McDonald's",
+    "zip": 75007
+  },
+  {
+    "id": "AVwdOv9wByjofQCxm4-B",
+    "city": "Houston",
+    "latitude": 29.774294,
+    "longitude": -95.246611,
+    "name": "McDonald's",
+    "zip": 77029
+  },
+  {
+    "id": "AVwdL-5kkufWRAb53Nlg",
+    "city": "Grand Prairie",
+    "latitude": 32.70956,
+    "longitude": -97.002614,
+    "name": "McDonald's",
+    "zip": 75051
+  },
+  {
+    "id": "AV1fOWItIxWefVJwfjCG",
+    "city": "Pittsburg",
+    "latitude": 32.996968,
+    "longitude": -94.958974,
+    "name": "McDonald's",
+    "zip": 75686
+  },
+  {
+    "id": "AVwc-Jj-ByjofQCxkKY4",
+    "city": "Cuero",
+    "latitude": 29.093527,
+    "longitude": -97.289278,
+    "name": "McDonald's",
+    "zip": 77954
+  },
+  {
+    "id": "AVwctnzVkufWRAb5yOEb",
+    "city": "San Antonio",
+    "latitude": 29.423877,
+    "longitude": -98.487484,
+    "name": "McDonald's",
+    "zip": 78205
+  },
+  {
+    "id": "AVwc7JmO_7pvs4fz0a26",
+    "city": "San Marcos",
+    "latitude": 29.88191,
+    "longitude": -97.916341,
+    "name": "McDonald's",
+    "zip": 78666
+  },
+  {
+    "id": "AVwd-EqqByjofQCxuHr5",
+    "city": "Spring",
+    "latitude": 30.190289,
+    "longitude": -95.589157,
+    "name": "McDonald's",
+    "zip": 77382
+  },
+  {
+    "id": "AVwcn20FIN2L1WUfnDlV",
+    "city": "San Marcos",
+    "latitude": 29.685079,
+    "longitude": -97.655844,
+    "name": "McDonald's",
+    "zip": 78666
+  },
+  {
+    "id": "AVwdfKJUByjofQCxpl7B",
+    "city": "Houston",
+    "latitude": 29.828007,
+    "longitude": -95.375796,
+    "name": "McDonald's",
+    "zip": 77022
+  },
+  {
+    "id": "AVwc1FsiIN2L1WUfpW3Z",
+    "city": "San Angelo",
+    "latitude": 31.487073,
+    "longitude": -100.458364,
+    "name": "McDonald's",
+    "zip": 76903
+  },
+  {
+    "id": "AVwdLmuOIN2L1WUftD5T",
+    "city": "Sanger",
+    "latitude": 33.365537,
+    "longitude": -97.180722,
+    "name": "McDonald's",
+    "zip": 76266
+  },
+  {
+    "id": "AVwcsgf4kufWRAb5yBzO",
+    "city": "Houston",
+    "latitude": 29.853865,
+    "longitude": -95.399585,
+    "name": "McDonald's",
+    "zip": 77076
+  },
+  {
+    "id": "AVwc9YB3kufWRAb500sH",
+    "city": "Houston",
+    "latitude": 29.713376,
+    "longitude": -95.313253,
+    "name": "McDonald's",
+    "zip": 77023
+  },
+  {
+    "id": "AVwcmYyAByjofQCxgF-3",
+    "city": "Beaumont",
+    "latitude": 30.133592,
+    "longitude": -94.165253,
+    "name": "McDonald's",
+    "zip": 77708
+  },
+  {
+    "id": "AVwcpEySkufWRAb5xcHO",
+    "city": "Schertz",
+    "latitude": 29.600364,
+    "longitude": -98.277203,
+    "name": "Taco Cabana",
+    "zip": 78154
+  },
+  {
+    "id": "AVwdSLhAIN2L1WUfuMHu",
+    "city": "San Antonio",
+    "latitude": 29.418207,
+    "longitude": -98.652296,
+    "name": "Taco Cabana",
+    "zip": 78227
+  },
+  {
+    "id": "AVwddr45IN2L1WUfwFKU",
+    "city": "San Antonio",
+    "latitude": 29.516963,
+    "longitude": -98.449577,
+    "name": "Taco Cabana",
+    "zip": 78209
+  },
+  {
+    "id": "AVwdAMSqkufWRAb51Smn",
+    "city": "Mission",
+    "latitude": 26.224779,
+    "longitude": -98.355804,
+    "name": "Whataburger",
+    "zip": 78572
+  },
+  {
+    "id": "AVwcyRtw_7pvs4fzy8Zg",
+    "city": "Odessa",
+    "latitude": 31.893989,
+    "longitude": -102.331171,
+    "name": "Whataburger",
+    "zip": 79762
+  },
+  {
+    "id": "AVwdMRd1ByjofQCxmeIQ",
+    "city": "New Braunfels",
+    "latitude": 29.693588,
+    "longitude": -98.112959,
+    "name": "Whataburger",
+    "zip": 78130
+  },
+  {
+    "id": "AVwdMRd1ByjofQCxmeIQ",
+    "city": "New Braunfels",
+    "latitude": 29.693588,
+    "longitude": -98.112959,
+    "name": "Whataburger",
+    "zip": 78130
+  },
+  {
+    "id": "AV1c6dZka4HuVbed5zrx",
+    "city": "Mission",
+    "latitude": 26.229535,
+    "longitude": -98.322417,
+    "name": "Whataburger",
+    "zip": 78572
+  },
+  {
+    "id": "AV0Z-Ec53D1zeR_xEKkN",
+    "city": "Mission",
+    "latitude": 26.213889,
+    "longitude": -98.317769,
+    "name": "Whataburger",
+    "zip": 78572
+  },
+  {
+    "id": "AVwctxSlkufWRAb5yPkP",
+    "city": "Mesquite",
+    "latitude": 32.767398,
+    "longitude": -96.624923,
+    "name": "Whataburger",
+    "zip": 75149
+  },
+  {
+    "id": "AVwdRkkW_7pvs4fz4JrS",
+    "city": "McAllen",
+    "latitude": 26.205561,
+    "longitude": -98.24471,
+    "name": "Whataburger",
+    "zip": 78501
+  },
+  {
+    "id": "AVwdXTpzByjofQCxoV1S",
+    "city": "Bay City",
+    "latitude": 28.983138,
+    "longitude": -95.949728,
+    "name": "Quiznos Sub",
+    "zip": 77414
+  },
+  {
+    "id": "AVwdTIbPByjofQCxnpLp",
+    "city": "Austin",
+    "latitude": 30.285019,
+    "longitude": -97.74184,
+    "name": "Quiznos Sub",
+    "zip": 78712
+  },
+  {
+    "id": "AVwczHB8IN2L1WUfpAwZ",
+    "city": "Austin",
+    "latitude": 30.298674,
+    "longitude": -97.72026,
+    "name": "Pei Wei",
+    "zip": 78751
+  },
+  {
+    "id": "AVwenUYKkufWRAb5Ejc2",
+    "city": "Keller",
+    "latitude": 32.892794,
+    "longitude": -97.28746,
+    "name": "Taco Bell",
+    "zip": 76244
+  },
+  {
+    "id": "AV23-TSga4HuVbed-jWG",
+    "city": "Austin",
+    "latitude": 30.400225,
+    "longitude": -97.747279,
+    "name": "Taco Bell",
+    "zip": 78759
+  },
+  {
+    "id": "AVwdwW4KkufWRAb589oa",
+    "city": "Duncanville",
+    "latitude": 32.63346,
+    "longitude": -96.900821,
+    "name": "Whataburger",
+    "zip": 75137
+  },
+  {
+    "id": "AVwd2UbuIN2L1WUfzwKT",
+    "city": "Austin",
+    "latitude": 30.461648,
+    "longitude": -97.795071,
+    "name": "Taco Bell",
+    "zip": 78750
+  },
+  {
+    "id": "AV455tCqRxPSIh2RfOol",
+    "city": "Terrell",
+    "latitude": 32.737449,
+    "longitude": -96.283155,
+    "name": "Taco Bell",
+    "zip": 75160
+  },
+  {
+    "id": "AV0Z_gJa-gnIPe8DVs_0",
+    "city": "Lubbock",
+    "latitude": 33.591894,
+    "longitude": -101.938634,
+    "name": "Taco Bell",
+    "zip": 79416
+  },
+  {
+    "id": "AVwdf6sdkufWRAb56fST",
+    "city": "Fort Worth",
+    "latitude": 32.733844,
+    "longitude": -97.319828,
+    "name": "Jack in the Box",
+    "zip": 76104
+  },
+  {
+    "id": "AV0aBcUPLD2H7whiZUfL",
+    "city": "Mineral Wells",
+    "latitude": 32.809535,
+    "longitude": -98.095303,
+    "name": "Taco Bell",
+    "zip": 76067
+  },
+  {
+    "id": "AVwc8sufByjofQCxj77a",
+    "city": "San Antonio",
+    "latitude": 29.364614,
+    "longitude": -98.439823,
+    "name": "Taco Bell",
+    "zip": 78223
+  },
+  {
+    "id": "AVwdQL33kufWRAb538N3",
+    "city": "Kyle",
+    "latitude": 30.01133,
+    "longitude": -97.86279,
+    "name": "McDonald's",
+    "zip": 78640
+  },
+  {
+    "id": "AVwda1Jr_7pvs4fz5sY4",
+    "city": "Fort Worth",
+    "latitude": 32.8407,
+    "longitude": -97.3429,
+    "name": "Wendy's",
+    "zip": 76106
+  },
+  {
+    "id": "AVzoC8ZS-gnIPe8DT5AG",
+    "city": "Rosenberg",
+    "latitude": 29.55811,
+    "longitude": -95.80967,
+    "name": "SONIC Drive In",
+    "zip": 77471
+  },
+  {
+    "id": "AVwc77XN_7pvs4fz0i-E",
+    "city": "Dallas",
+    "latitude": 32.752001,
+    "longitude": -96.683417,
+    "name": "Golden Chick",
+    "zip": 75227
+  },
+  {
+    "id": "AVwdNKXu_7pvs4fz3Y1q",
+    "city": "San Antonio",
+    "latitude": 29.41795,
+    "longitude": -98.65278,
+    "name": "Chick-fil-A",
+    "zip": 78227
+  },
+  {
+    "id": "AVwcoPRgIN2L1WUfnHt7",
+    "city": "San Antonio",
+    "latitude": 29.56546137,
+    "longitude": -98.38905639,
+    "name": "Bush's Chicken",
+    "zip": 78217
+  },
+  {
+    "id": "AVwchEhjByjofQCxfGOx",
+    "city": "San Antonio",
+    "latitude": 29.474348,
+    "longitude": -98.50821,
+    "name": "Burger King",
+    "zip": 78212
+  },
+  {
+    "id": "AVwc8vZIIN2L1WUfqpnh",
+    "city": "San Antonio",
+    "latitude": 29.5782,
+    "longitude": -98.4409,
+    "name": "KFC",
+    "zip": 78247
+  },
+  {
+    "id": "AVwcjOzMByjofQCxfgMy",
+    "city": "Seagoville",
+    "latitude": 32.64843605,
+    "longitude": -96.53323352,
+    "name": "Wendy's",
+    "zip": 75159
+  },
+  {
+    "id": "AVweMOot_7pvs4fzA1mU",
+    "city": "El Paso",
+    "latitude": 31.80161,
+    "longitude": -106.30395,
+    "name": "McDonald's",
+    "zip": 79936
+  },
+  {
+    "id": "AVweQvyLIN2L1WUf3Yth",
+    "city": "Webster",
+    "latitude": 29.594083,
+    "longitude": -95.172813,
+    "name": "Burger House",
+    "zip": 77598
+  },
+  {
+    "id": "AVwdbOavByjofQCxo-7u",
+    "city": "Houston",
+    "latitude": 29.867682,
+    "longitude": -95.488431,
+    "name": "SONIC Drive In",
+    "zip": 77088
+  },
+  {
+    "id": "AVwcqHEaIN2L1WUfncqU",
+    "city": "Richmond",
+    "latitude": 29.62698,
+    "longitude": -95.76893,
+    "name": "The Swinging Door",
+    "zip": 77406
+  },
+  {
+    "id": "AVz1rNzMFcQ3k02bDQe3",
+    "city": "Houston",
+    "latitude": 29.71802,
+    "longitude": -95.53888,
+    "name": "Burger King",
+    "zip": 77036
+  },
+  {
+    "id": "AVwcvh_eByjofQCxhr3O",
+    "city": "Houston",
+    "latitude": 29.919348,
+    "longitude": -95.61018,
+    "name": "Jimmy John's",
+    "zip": 77065
+  },
+  {
+    "id": "AVwcvapTkufWRAb5yhA1",
+    "city": "Houston",
+    "latitude": 29.71501,
+    "longitude": -95.4965,
+    "name": "Wendy's",
+    "zip": 77081
+  },
+  {
+    "id": "AVwc9BMM_7pvs4fz0t3b",
+    "city": "Katy",
+    "latitude": 29.77365137,
+    "longitude": -95.81826649,
+    "name": "Burger King",
+    "zip": 77494
+  },
+  {
+    "id": "AVwdjnsf_7pvs4fz7DXl",
+    "city": "Dallas",
+    "latitude": 32.863434,
+    "longitude": -96.80637,
+    "name": "Jimmy John's",
+    "zip": 75225
+  },
+  {
+    "id": "AV1TsGvw3D1zeR_xFFFa",
+    "city": "Dallas",
+    "latitude": 32.928467,
+    "longitude": -96.82028,
+    "name": "Five Guys",
+    "zip": 75240
+  },
+  {
+    "id": "AVwcnkAQkufWRAb5xLy6",
+    "city": "El Paso",
+    "latitude": 31.78009,
+    "longitude": -106.50406,
+    "name": "Carl's Jr.",
+    "zip": 79902
+  },
+  {
+    "id": "AVwdAJvIkufWRAb51SQI",
+    "city": "El Paso",
+    "latitude": 31.805675,
+    "longitude": -106.404258,
+    "name": "Carl's Jr.",
+    "zip": 79906
+  },
+  {
+    "id": "AVweHaQl_7pvs4fzALOf",
+    "city": "Dallas",
+    "latitude": 32.641238,
+    "longitude": -96.839957,
+    "name": "Carl's Jr.",
+    "zip": 75232
+  },
+  {
+    "id": "AVwc7wFn_7pvs4fz0hE8",
+    "city": "Dallas",
+    "latitude": 32.768342,
+    "longitude": -96.895438,
+    "name": "Taco Bell",
+    "zip": 75212
+  },
+  {
+    "id": "AVwc7wFn_7pvs4fz0hE8",
+    "city": "Dallas",
+    "latitude": 32.768342,
+    "longitude": -96.895438,
+    "name": "Taco Bell",
+    "zip": 75212
+  },
+  {
+    "id": "AVwc_2vXByjofQCxkcPH",
+    "city": "Pearland",
+    "latitude": 29.559024,
+    "longitude": -95.348729,
+    "name": "McDonald's",
+    "zip": 77581
+  },
+  {
+    "id": "AVweClD7IN2L1WUf1dyZ",
+    "city": "Friendswood",
+    "latitude": 29.463398,
+    "longitude": -95.227915,
+    "name": "Sonic",
+    "zip": 77546
+  },
+  {
+    "id": "AVwdqQgdkufWRAb58E9M",
+    "city": "Mesquite",
+    "latitude": 32.768211,
+    "longitude": -96.626177,
+    "name": "Sonic",
+    "zip": 75149
+  },
+  {
+    "id": "AVwcrXq-_7pvs4fzxxaO",
+    "city": "Mesquite",
+    "latitude": 32.807322,
+    "longitude": -96.611806,
+    "name": "Sonic",
+    "zip": 75150
+  },
+  {
+    "id": "AVwdahJ2kufWRAb55psL",
+    "city": "Garland",
+    "latitude": 32.9624919,
+    "longitude": -96.64340625,
+    "name": "McDonald's",
+    "zip": 75040
+  },
+  {
+    "id": "AVwcepyg_7pvs4fzvfzW",
+    "city": "Lubbock",
+    "latitude": 33.548,
+    "longitude": -101.9229,
+    "name": "KFC",
+    "zip": 79414
+  },
+  {
+    "id": "AVwcnO4ZIN2L1WUfm8cd",
+    "city": "Lubbock",
+    "latitude": 33.5872,
+    "longitude": -101.87058,
+    "name": "Raising Cane's Chicken Fingers",
+    "zip": 79401
+  },
+  {
+    "id": "AVwdiGGz_7pvs4fz60bY",
+    "city": "Lubbock",
+    "latitude": 33.51926317,
+    "longitude": -101.958253,
+    "name": "McDonald's",
+    "zip": 79424
+  },
+  {
+    "id": "AVwdgltVIN2L1WUfwhKV",
+    "city": "Lubbock",
+    "latitude": 33.57712,
+    "longitude": -101.94646,
+    "name": "Fazoli's",
+    "zip": 79407
+  },
+  {
+    "id": "AVwc5oOY_7pvs4fz0KyE",
+    "city": "San Antonio",
+    "latitude": 29.564529,
+    "longitude": -98.587092,
+    "name": "Taco Bell",
+    "zip": 78249
+  },
+  {
+    "id": "AVwc14pvIN2L1WUfpfAr",
+    "city": "Lubbock",
+    "latitude": 33.5462,
+    "longitude": -101.923,
+    "name": "Wendy's",
+    "zip": 79414
+  },
+  {
+    "id": "AVwdeGO2IN2L1WUfwJD8",
+    "city": "San Antonio",
+    "latitude": 29.613647,
+    "longitude": -98.603935,
+    "name": "Chick-fil-A",
+    "zip": 78257
+  },
+  {
+    "id": "AVweFaSvkufWRAb5_27j",
+    "city": "San Antonio",
+    "latitude": 29.49034,
+    "longitude": -98.43704,
+    "name": "McDonald's",
+    "zip": 78209
+  },
+  {
+    "id": "AVwdAPyQkufWRAb51S8-",
+    "city": "San Antonio",
+    "latitude": 29.49301,
+    "longitude": -98.4367,
+    "name": "SONIC Drive In",
+    "zip": 78209
+  },
+  {
+    "id": "AVwdAPyQkufWRAb51S8-",
+    "city": "San Antonio",
+    "latitude": 29.49301,
+    "longitude": -98.4367,
+    "name": "SONIC Drive In",
+    "zip": 78209
+  },
+  {
+    "id": "AVwdAPyQkufWRAb51S8-",
+    "city": "San Antonio",
+    "latitude": 29.49301,
+    "longitude": -98.4367,
+    "name": "SONIC Drive In",
+    "zip": 78209
+  },
+  {
+    "id": "AVwcqc04kufWRAb5xq3_",
+    "city": "San Antonio",
+    "latitude": 29.49155,
+    "longitude": -98.4382,
+    "name": "Raising Cane's Chicken Fingers",
+    "zip": 78209
+  },
+  {
+    "id": "AVwdW8cD_7pvs4fz5DVR",
+    "city": "San Antonio",
+    "latitude": 29.44464,
+    "longitude": -98.65948,
+    "name": "SONIC Drive In",
+    "zip": 78251
+  },
+  {
+    "id": "AVwdD7gKByjofQCxlGwE",
+    "city": "San Antonio",
+    "latitude": 29.49797,
+    "longitude": -98.4686,
+    "name": "Panera Bread",
+    "zip": 78209
+  },
+  {
+    "id": "AVwd0QPvIN2L1WUfzeXg",
+    "city": "Leander",
+    "latitude": 30.56741,
+    "longitude": -97.84857,
+    "name": "SONIC Drive In",
+    "zip": 78641
+  },
+  {
+    "id": "AVwcnMaV_7pvs4fzxDcz",
+    "city": "Cedar Park",
+    "latitude": 30.5215,
+    "longitude": -97.83,
+    "name": "KFC",
+    "zip": 78613
+  },
+  {
+    "id": "AVwcnMaV_7pvs4fzxDcz",
+    "city": "Cedar Park",
+    "latitude": 30.5215,
+    "longitude": -97.83,
+    "name": "KFC",
+    "zip": 78613
+  },
+  {
+    "id": "AVwcmgg_kufWRAb5w_kc",
+    "city": "Leander",
+    "latitude": 30.5596,
+    "longitude": -97.8455,
+    "name": "Taco Bell",
+    "zip": 78641
+  },
+  {
+    "id": "AVzA_YTaLD2H7whiWI1J",
+    "city": "Little Elm",
+    "latitude": 33.176727,
+    "longitude": -96.88814,
+    "name": "McDonald's",
+    "zip": 75068
+  },
+  {
+    "id": "AVwcqJ_ZkufWRAb5xnYn",
+    "city": "Arlington",
+    "latitude": 32.67553,
+    "longitude": -97.09341,
+    "name": "McDonald's",
+    "zip": 76018
+  },
+  {
+    "id": "AVzBC8fPLD2H7whiWLFE",
+    "city": "Grand Prairie",
+    "latitude": 32.64781,
+    "longitude": -97.05877,
+    "name": "Chick-fil-A",
+    "zip": 75052
+  },
+  {
+    "id": "AVwdnNqAByjofQCxq12K",
+    "city": "Arlington",
+    "latitude": 32.67874,
+    "longitude": -97.1491,
+    "name": "SONIC Drive In",
+    "zip": 76016
+  },
+  {
+    "id": "AV4-gafORxPSIh2Rf4mP",
+    "city": "Conroe",
+    "latitude": 30.323542,
+    "longitude": -95.40193,
+    "name": "SONIC Drive In",
+    "zip": 77301
+  },
+  {
+    "id": "AV1tgByaRxPSIh2RbWE_",
+    "city": "Buda",
+    "latitude": 30.086224,
+    "longitude": -97.82126,
+    "name": "Jack in the Box",
+    "zip": 78610
+  },
+  {
+    "id": "AV9S6j8DIxWefVJwre70",
+    "city": "Willis",
+    "latitude": 30.4198,
+    "longitude": -95.493,
+    "name": "McDonald's",
+    "zip": 77378
+  },
+  {
+    "id": "AVwchV2GIN2L1WUfl2C-",
+    "city": "Manvel",
+    "latitude": 29.48051793,
+    "longitude": -95.39710716,
+    "name": "SONIC Drive In",
+    "zip": 77578
+  },
+  {
+    "id": "AVwcwjaDkufWRAb5ytdD",
+    "city": "Conroe",
+    "latitude": 30.32110481,
+    "longitude": -95.48691339,
+    "name": "Taco Bell",
+    "zip": 77304
+  },
+  {
+    "id": "AVwcfUff_7pvs4fzvnzN",
+    "city": "Houston",
+    "latitude": 29.70857,
+    "longitude": -95.401496,
+    "name": "McDonald's",
+    "zip": 77030
+  },
+  {
+    "id": "AVweDHLVIN2L1WUf1ilx",
+    "city": "Madisonville",
+    "latitude": 30.948552,
+    "longitude": -95.915326,
+    "name": "Dairy Queen",
+    "zip": 77864
+  },
+  {
+    "id": "AVweDHLVIN2L1WUf1ilx",
+    "city": "Madisonville",
+    "latitude": 30.948552,
+    "longitude": -95.915326,
+    "name": "Dairy Queen",
+    "zip": 77864
+  },
+  {
+    "id": "AVwdqWU2ByjofQCxrUrJ",
+    "city": "Nederland",
+    "latitude": 29.97319,
+    "longitude": -93.990996,
+    "name": "Dairy Queen",
+    "zip": 77627
+  },
+  {
+    "id": "AV_dgT_iIxWefVJwtKoF",
+    "city": "Lumberton",
+    "latitude": 30.239984,
+    "longitude": -94.195661,
+    "name": "Dairy Queen",
+    "zip": 77657
+  },
+  {
+    "id": "AV1ghlyJRxPSIh2RaHd7",
+    "city": "Marlin",
+    "latitude": 31.306303,
+    "longitude": -96.876396,
+    "name": "Dairy Queen",
+    "zip": 76661
+  },
+  {
+    "id": "AVwcw_nmIN2L1WUfopnQ",
+    "city": "Mansfield",
+    "latitude": 32.564978,
+    "longitude": -97.128895,
+    "name": "Dairy Queen",
+    "zip": 76063
+  },
+  {
+    "id": "AVwdbeEgIN2L1WUfvuau",
+    "city": "Lubbock",
+    "latitude": 33.522638,
+    "longitude": -101.922364,
+    "name": "Dairy Queen",
+    "zip": 79424
+  },
+  {
+    "id": "AVwdCKdIkufWRAb51m5E",
+    "city": "Laredo",
+    "latitude": 27.537376,
+    "longitude": -99.50434,
+    "name": "Dairy Queen",
+    "zip": 78041
+  },
+  {
+    "id": "AVweCEWsByjofQCxurf-",
+    "city": "Kermit",
+    "latitude": 31.854579,
+    "longitude": -103.092087,
+    "name": "Dairy Queen",
+    "zip": 79745
+  },
+  {
+    "id": "AVzYnamLLD2H7whiW6if",
+    "city": "Gainesville",
+    "latitude": 33.625159,
+    "longitude": -97.13338,
+    "name": "Jack in the Box",
+    "zip": 76240
+  },
+  {
+    "id": "AVwdRBp9kufWRAb54F4w",
+    "city": "Houston",
+    "latitude": 29.735796,
+    "longitude": -95.50037,
+    "name": "Jack in the Box",
+    "zip": 77057
+  },
+  {
+    "id": "AVwdeVoJIN2L1WUfwLcH",
+    "city": "Houston",
+    "latitude": 29.863926,
+    "longitude": -95.384731,
+    "name": "Jack in the Box",
+    "zip": 77076
+  },
+  {
+    "id": "AVwcnI2mkufWRAb5xHF5",
+    "city": "Garland",
+    "latitude": 32.850024,
+    "longitude": -96.569661,
+    "name": "Jack in the Box",
+    "zip": 75043
+  },
+  {
+    "id": "AV1c6JXMRxPSIh2RYz4C",
+    "city": "Gilmer",
+    "latitude": 32.732944,
+    "longitude": -94.942725,
+    "name": "Jack in the Box",
+    "zip": 75644
+  },
+  {
+    "id": "AVwd1CEckufWRAb59nCR",
+    "city": "Garland",
+    "latitude": 32.944751,
+    "longitude": -96.64758,
+    "name": "Jack in the Box",
+    "zip": 75040
+  },
+  {
+    "id": "AVzA9vnSFcQ3k02bBZ2f",
+    "city": "Fort Worth",
+    "latitude": 32.758584,
+    "longitude": -97.479125,
+    "name": "Jack in the Box",
+    "zip": 76108
+  },
+  {
+    "id": "AVzA9kpZFcQ3k02bBZtQ",
+    "city": "Fort Worth",
+    "latitude": 32.660601,
+    "longitude": -97.273618,
+    "name": "Jack in the Box",
+    "zip": 76140
+  },
+  {
+    "id": "AVwc4CJUByjofQCxjJJG",
+    "city": "Bryan",
+    "latitude": 30.65917,
+    "longitude": -96.33197,
+    "name": "McDonald's",
+    "zip": 77802
+  },
+  {
+    "id": "AVwdD5nqIN2L1WUfrzxB",
+    "city": "Houston",
+    "latitude": 29.878287,
+    "longitude": -95.608254,
+    "name": "Burger King",
+    "zip": 77041
+  },
+  {
+    "id": "AVwdXtyVIN2L1WUfvHLU",
+    "city": "Missouri City",
+    "latitude": 29.5779674,
+    "longitude": -95.58018364,
+    "name": "Popeyes",
+    "zip": "77459-3990"
+  },
+  {
+    "id": "AVweQ4o0kufWRAb5BaWV",
+    "city": "Seguin",
+    "latitude": 29.58192,
+    "longitude": -97.99387,
+    "name": "McDonald's",
+    "zip": 78155
+  },
+  {
+    "id": "AV0Y-GGULD2H7whiY7SS",
+    "city": "Bastrop",
+    "latitude": 30.10421,
+    "longitude": -97.30896,
+    "name": "Jack in the Box",
+    "zip": 78602
+  },
+  {
+    "id": "AVwdon5iIN2L1WUfxwnF",
+    "city": "Waxahachie",
+    "latitude": 32.42204,
+    "longitude": -96.84483,
+    "name": "Dairy Queen",
+    "zip": 75165
+  },
+  {
+    "id": "AVwclVcX_7pvs4fzwtqC",
+    "city": "Baytown",
+    "latitude": 29.761673,
+    "longitude": -94.964399,
+    "name": "Jack in the Box",
+    "zip": 77521
+  },
+  {
+    "id": "AV57wG8tRxPSIh2Rkd86",
+    "city": "Baytown",
+    "latitude": 29.74111,
+    "longitude": -94.98108,
+    "name": "Whataburger",
+    "zip": 77520
+  },
+  {
+    "id": "AVwcv57HByjofQCxhwDs",
+    "city": "Boerne",
+    "latitude": 29.77898,
+    "longitude": -98.73965,
+    "name": "Whataburger",
+    "zip": 78006
+  },
+  {
+    "id": "AVzxlRi83D1zeR_xCve3",
+    "city": "Huntsville",
+    "latitude": 30.71787,
+    "longitude": -95.56773,
+    "name": "McDonald's",
+    "zip": 77340
+  },
+  {
+    "id": "AVwdsurXByjofQCxrrmE",
+    "city": "Spring Branch",
+    "latitude": 29.798214,
+    "longitude": -98.4255,
+    "name": "Whataburger",
+    "zip": 78070
+  },
+  {
+    "id": "AV1iqR3UIxWefVJwgS0O",
+    "city": "La Vernia",
+    "latitude": 29.36778,
+    "longitude": -98.1564,
+    "name": "Whataburger",
+    "zip": 78121
+  },
+  {
+    "id": "AVwc8ERikufWRAb50n6y",
+    "city": "La Vernia",
+    "latitude": 29.35675,
+    "longitude": -98.12759,
+    "name": "SONIC Drive In",
+    "zip": 78121
+  },
+  {
+    "id": "AVwdrN51_7pvs4fz8PJ-",
+    "city": "San Antonio",
+    "latitude": 29.5645,
+    "longitude": -98.5961,
+    "name": "McDonald's",
+    "zip": 78249
+  },
+  {
+    "id": "AVwdzOVmByjofQCxsnr3",
+    "city": "San Antonio",
+    "latitude": 29.50397,
+    "longitude": -98.62633,
+    "name": "Bush's Chicken",
+    "zip": 78238
+  },
+  {
+    "id": "AVweTA8gByjofQCxw-0p",
+    "city": "San Antonio",
+    "latitude": 29.46952,
+    "longitude": -98.46332,
+    "name": "Jimmy John's",
+    "zip": 78209
+  },
+  {
+    "id": "AVwdY5QgIN2L1WUfvTWJ",
+    "city": "San Antonio",
+    "latitude": 29.461414,
+    "longitude": -98.692274,
+    "name": "McDonald's",
+    "zip": 78251
+  },
+  {
+    "id": "AVwc_dL3kufWRAb51Kfd",
+    "city": "San Antonio",
+    "latitude": 29.410728,
+    "longitude": -98.506837,
+    "name": "Wendy's",
+    "zip": 78204
+  },
+  {
+    "id": "AVzA87qmLD2H7whiWHFF",
+    "city": "San Antonio",
+    "latitude": 29.603518,
+    "longitude": -98.508026,
+    "name": "SONIC Drive In",
+    "zip": 78232
+  },
+  {
+    "id": "AV_dgPBb3-Khe5l_aFQ-",
+    "city": "San Antonio",
+    "latitude": 29.49238,
+    "longitude": -98.70645,
+    "name": "Jason's Deli",
+    "zip": 78253
+  },
+  {
+    "id": "AVwef_VDkufWRAb5DgQ0",
+    "city": "San Antonio",
+    "latitude": 29.577145,
+    "longitude": -98.51323,
+    "name": "7-Eleven",
+    "zip": 78216
+  },
+  {
+    "id": "AVzBAAxALD2H7whiWJI2",
+    "city": "Dallas",
+    "latitude": 32.924004,
+    "longitude": -96.83874,
+    "name": "In-N-Out Burger",
+    "zip": 75244
+  },
+  {
+    "id": "AVwcrzFK_7pvs4fzx2Tz",
+    "city": "Dallas",
+    "latitude": 32.858269,
+    "longitude": -96.875961,
+    "name": "Jack in the Box",
+    "zip": 75220
+  },
+  {
+    "id": "AVwc0IaWByjofQCxie1x",
+    "city": "Dallas",
+    "latitude": 32.908054,
+    "longitude": -96.7479,
+    "name": "Braum's",
+    "zip": 75243
+  },
+  {
+    "id": "AVwdefKDkufWRAb56SGj",
+    "city": "Dallas",
+    "latitude": 32.810833,
+    "longitude": -96.771311,
+    "name": "McDonald's",
+    "zip": 75206
+  },
+  {
+    "id": "AVwdyCO-kufWRAb59M9A",
+    "city": "Frisco",
+    "latitude": 33.14931,
+    "longitude": -96.8036,
+    "name": "Dairy Queen",
+    "zip": 75034
+  },
+  {
+    "id": "AVwcjddq_7pvs4fzwYfl",
+    "city": "Houston",
+    "latitude": 29.996244,
+    "longitude": -95.57678,
+    "name": "Chipotle Mexican Grill",
+    "zip": 77070
+  },
+  {
+    "id": "AVwcxHECIN2L1WUforAh",
+    "city": "Round Rock",
+    "latitude": 30.483175,
+    "longitude": -97.67746,
+    "name": "Jimmy John's",
+    "zip": 78681
+  },
+  {
+    "id": "AVwcqv7QByjofQCxg27S",
+    "city": "Irving",
+    "latitude": 32.86572,
+    "longitude": -96.99318303,
+    "name": "Sonic",
+    "zip": 75038
+  },
+  {
+    "id": "AV0aBCYs3D1zeR_xEMso",
+    "city": "Atlanta",
+    "latitude": 33.11533,
+    "longitude": -94.18138,
+    "name": "Chicken Express",
+    "zip": 75551
+  },
+  {
+    "id": "AVwelXiEByjofQCxzmDS",
+    "city": "Ranger",
+    "latitude": 32.4418,
+    "longitude": -98.69472,
+    "name": "Subway",
+    "zip": 76470
+  },
+  {
+    "id": "AV6CGHhaIxWefVJwqTPI",
+    "city": "Santa Fe",
+    "latitude": 29.37294,
+    "longitude": -95.08962,
+    "name": "Pizza Hut",
+    "zip": 77510
+  },
+  {
+    "id": "AVwc-gV_IN2L1WUfq7P6",
+    "city": "Seymour",
+    "latitude": 33.59611,
+    "longitude": -99.26051,
+    "name": "Sonic Drive-In",
+    "zip": 76380
+  },
+  {
+    "id": "AVwch0O0_7pvs4fzwFSS",
+    "city": "Seminole",
+    "latitude": 32.7105,
+    "longitude": -102.64534,
+    "name": "Sonic Drive-In",
+    "zip": 79360
+  },
+  {
+    "id": "AVwch0O0_7pvs4fzwFSS",
+    "city": "Seminole",
+    "latitude": 32.7105,
+    "longitude": -102.64534,
+    "name": "Sonic Drive-In",
+    "zip": 79360
+  },
+  {
+    "id": "AV2yiR_ERxPSIh2RddcV",
+    "city": "Brownsville",
+    "latitude": 25.9012,
+    "longitude": -97.49009,
+    "name": "McDonald's",
+    "zip": 78520
+  },
+  {
+    "id": "AVweaKVgByjofQCxx7pd",
+    "city": "Paris",
+    "latitude": 33.65895,
+    "longitude": -95.50896,
+    "name": "Panda Express",
+    "zip": 75460
+  },
+  {
+    "id": "AV5Z_mxvRxPSIh2RjOrK",
+    "city": "Freeport",
+    "latitude": 28.97541,
+    "longitude": -95.37359,
+    "name": "Sonic Drive-In",
+    "zip": 77541
+  },
+  {
+    "id": "AV6CF1hma4HuVbedE4r0",
+    "city": "Hitchcock",
+    "latitude": 29.3461,
+    "longitude": -95.01107,
+    "name": "Krispy Krunchy Chicken",
+    "zip": 77563
+  },
+  {
+    "id": "AV0Z9sGRFcQ3k02bEkQu",
+    "city": "Brownsville",
+    "latitude": 25.89377,
+    "longitude": -97.44733,
+    "name": "McDonald's",
+    "zip": 78521
+  },
+  {
+    "id": "AVwc49YokufWRAb50G3k",
+    "city": "Brownsville",
+    "latitude": 25.92044,
+    "longitude": -97.48089,
+    "name": "Mr Taco",
+    "zip": 78521
+  },
+  {
+    "id": "AVwcit0tIN2L1WUfmG2t",
+    "city": "Huntington",
+    "latitude": 31.27916,
+    "longitude": -94.57995,
+    "name": "Sonic Drive-In",
+    "zip": 75949
+  },
+  {
+    "id": "AV6CF_h8IxWefVJwqTFK",
+    "city": "Harrold",
+    "latitude": 34.07115,
+    "longitude": -99.00995,
+    "name": "Subway",
+    "zip": 76364
+  },
+  {
+    "id": "AVwdv5WGIN2L1WUfy1-Y",
+    "city": "Mount Vernon",
+    "latitude": 33.14296,
+    "longitude": -95.2407,
+    "name": "McDonald's",
+    "zip": 75457
+  },
+  {
+    "id": "AV6CGaxha4HuVbedE5qh",
+    "city": "Glen Rose",
+    "latitude": 32.23367,
+    "longitude": -97.76604,
+    "name": "Pizza Hut",
+    "zip": 76043
+  },
+  {
+    "id": "AVweD-DiIN2L1WUf1ptV",
+    "city": "Ingleside",
+    "latitude": 27.8784,
+    "longitude": -97.20119,
+    "name": "Sonic Drive-In",
+    "zip": 78362
+  },
+  {
+    "id": "AVwc3fO8kufWRAb5z2zk",
+    "city": "Carrizo Springs",
+    "latitude": 28.5243,
+    "longitude": -99.85636,
+    "name": "Sonic Drive-In",
+    "zip": 78834
+  },
+  {
+    "id": "AV1gfKmoRxPSIh2RaERK",
+    "city": "Clifton",
+    "latitude": 31.78944,
+    "longitude": -97.58131,
+    "name": "Sonic Drive-In",
+    "zip": 76634
+  },
+  {
+    "id": "AV0JQ3YjLD2H7whiYYN5",
+    "city": "Cameron",
+    "latitude": 30.87303,
+    "longitude": -96.97274,
+    "name": "The 50's Cafe",
+    "zip": 76520
+  },
+  {
+    "id": "AV1c9a7sIxWefVJwemQN",
+    "city": "East Bernard",
+    "latitude": 29.39343,
+    "longitude": -96.0773,
+    "name": "McDonald's",
+    "zip": 77435
+  },
+  {
+    "id": "AVwckGc8IN2L1WUfmXtK",
+    "city": "Eden",
+    "latitude": 31.21746,
+    "longitude": -99.84532,
+    "name": "Sonic Drive-In",
+    "zip": 76837
+  },
+  {
+    "id": "AV6CFUSbIxWefVJwqR5Y",
+    "city": "Borger",
+    "latitude": 35.67972,
+    "longitude": -101.37968,
+    "name": "Papa J's",
+    "zip": 79007
+  },
+  {
+    "id": "AV1c5wBVa4HuVbed5wTW",
+    "city": "Waco",
+    "latitude": 31.60214,
+    "longitude": -97.10634,
+    "name": "Jack In The Box",
+    "zip": 76705
+  },
+  {
+    "id": "AVwciT3_ByjofQCxfVE-",
+    "city": "Daingerfield",
+    "latitude": 33.01862,
+    "longitude": -94.72086,
+    "name": "Sonic Drive-In",
+    "zip": 75638
+  },
+  {
+    "id": "AV0Z-bIk3D1zeR_xEKzn",
+    "city": "Burkburnett",
+    "latitude": 34.0904,
+    "longitude": -98.55906,
+    "name": "Subway",
+    "zip": 76354
+  },
+  {
+    "id": "AV--rY1UIxWefVJwsSWE",
+    "city": "Buna",
+    "latitude": 30.44393,
+    "longitude": -93.96875,
+    "name": "Sonic Drive-In",
+    "zip": 77612
+  },
+  {
+    "id": "AV6CGTxPRxPSIh2RkvrJ",
+    "city": "Corrigan",
+    "latitude": 30.98778,
+    "longitude": -94.82668,
+    "name": "Sonic Drive-In",
+    "zip": 75939
+  },
+  {
+    "id": "AV6CGMW0IxWefVJwqTYP",
+    "city": "Cresson",
+    "latitude": 32.530712,
+    "longitude": -97.65193,
+    "name": "Subway",
+    "zip": 76035
+  },
+  {
+    "id": "AVwc5TrQIN2L1WUfqEHP",
+    "city": "San Antonio",
+    "latitude": 29.55438,
+    "longitude": -98.50012,
+    "name": "Wise Guys A Chicago Eatery",
+    "zip": 78216
+  },
+  {
+    "id": "AVwc9pOM_7pvs4fz00KQ",
+    "city": "Lufkin",
+    "latitude": 31.26632,
+    "longitude": -94.74271,
+    "name": "Krispy Krunchy Chicken",
+    "zip": 75901
+  },
+  {
+    "id": "AVwd1TwN_7pvs4fz9quG",
+    "city": "Temple",
+    "latitude": 31.0768,
+    "longitude": -97.3673,
+    "name": "Panera Bread",
+    "zip": 76504
+  },
+  {
+    "id": "AVwd1TwN_7pvs4fz9quG",
+    "city": "Temple",
+    "latitude": 31.0768,
+    "longitude": -97.3673,
+    "name": "Panera Bread",
+    "zip": 76504
+  },
+  {
+    "id": "AVwdi9N_ByjofQCxqLNc",
+    "city": "New Braunfels",
+    "latitude": 29.69681,
+    "longitude": -98.09944,
+    "name": "Taco Cabana",
+    "zip": 78130
+  },
+  {
+    "id": "AVwdi9N_ByjofQCxqLNc",
+    "city": "New Braunfels",
+    "latitude": 29.69681,
+    "longitude": -98.09944,
+    "name": "Taco Cabana",
+    "zip": 78130
+  },
+  {
+    "id": "AVwc-hAA_7pvs4fz09Z-",
+    "city": "San Angelo",
+    "latitude": 31.47815,
+    "longitude": -100.45495,
+    "name": "Heff's Burgers",
+    "zip": 76903
+  },
+  {
+    "id": "AV6CFvo5a4HuVbedE4g1",
+    "city": "San Marcos",
+    "latitude": 29.87158,
+    "longitude": -97.93752,
+    "name": "El Pollo Regio",
+    "zip": 78666
+  },
+  {
+    "id": "AVwc3fXlIN2L1WUfpwqV",
+    "city": "New Braunfels",
+    "latitude": 29.72692,
+    "longitude": -98.07574,
+    "name": "Panera Bread",
+    "zip": 78130
+  },
+  {
+    "id": "AV4_jFIfRxPSIh2RgNDr",
+    "city": "Harlingen",
+    "latitude": 26.19854,
+    "longitude": -97.67991,
+    "name": "McDonald's",
+    "zip": 78550
+  },
+  {
+    "id": "AV1c6X4O3-Khe5l_MJUT",
+    "city": "Harlingen",
+    "latitude": 26.222382,
+    "longitude": -97.66241,
+    "name": "Quiznos",
+    "zip": 78550
+  },
+  {
+    "id": "AVwdD-MNkufWRAb516Pn",
+    "city": "Wichita Falls",
+    "latitude": 33.8706,
+    "longitude": -98.54041,
+    "name": "Jersey Mike's Subs",
+    "zip": 76308
+  },
+  {
+    "id": "AV--rTKdRxPSIh2RmuE5",
+    "city": "Victoria",
+    "latitude": 28.82275,
+    "longitude": -96.99999,
+    "name": "Sonic Drive-In",
+    "zip": 77901
+  },
+  {
+    "id": "AVwc7gAn_7pvs4fz0emE",
+    "city": "Longview",
+    "latitude": 32.45184,
+    "longitude": -94.70894,
+    "name": "Grandy's",
+    "zip": 75602
+  },
+  {
+    "id": "AVwci-urByjofQCxfdIl",
+    "city": "Longview",
+    "latitude": 32.54199,
+    "longitude": -94.7425,
+    "name": "Raising Cane's Chicken Fingers",
+    "zip": 75605
+  },
+  {
+    "id": "AVwcr626ByjofQCxhEQL",
+    "city": "Longview",
+    "latitude": 32.52471,
+    "longitude": -94.78067,
+    "name": "Chick-Fil-A",
+    "zip": 75604
+  },
+  {
+    "id": "AV6CF1Dba4HuVbedE4qQ",
+    "city": "Killeen",
+    "latitude": 31.10627,
+    "longitude": -97.74743,
+    "name": "Wingstop Restaurant",
+    "zip": 76541
+  },
+  {
+    "id": "AV0Z8iBlLD2H7whiZRCS",
+    "city": "Longview",
+    "latitude": 32.51261,
+    "longitude": -94.74953,
+    "name": "El Sombrero",
+    "zip": 75601
+  },
+  {
+    "id": "AV--rdZQRxPSIh2RmucG",
+    "city": "Harker Heights",
+    "latitude": 31.07154,
+    "longitude": -97.66807,
+    "name": "Genghis Grill",
+    "zip": 76548
+  },
+  {
+    "id": "AVwc9d5f_7pvs4fz0yYW",
+    "city": "Killeen",
+    "latitude": 31.09029,
+    "longitude": -97.72158,
+    "name": "In-N-Out Burger",
+    "zip": 76541
+  },
+  {
+    "id": "AVwd-7yHkufWRAb5--PF",
+    "city": "Abilene",
+    "latitude": 32.37204,
+    "longitude": -99.74648,
+    "name": "Subway",
+    "zip": 79606
+  },
+  {
+    "id": "AV-QS59sRxPSIh2RmR6_",
+    "city": "Tyler",
+    "latitude": 32.27692,
+    "longitude": -95.31051,
+    "name": "Palio's Pizza Cafe",
+    "zip": 75703
+  },
+  {
+    "id": "AVwei0e1kufWRAb5D7hS",
+    "city": "Tyler",
+    "latitude": 32.28309,
+    "longitude": -95.30488,
+    "name": "Andy's Frozen Custard",
+    "zip": 75703
+  },
+  {
+    "id": "AV0Z84fd-gnIPe8DVq-D",
+    "city": "Amarillo",
+    "latitude": 35.22279,
+    "longitude": -101.77016,
+    "name": "Ly's Cafe",
+    "zip": 79107
+  },
+  {
+    "id": "AV1tfKow3-Khe5l_Ohc2",
+    "city": "Laredo",
+    "latitude": 27.5682,
+    "longitude": -99.5016,
+    "name": "Quiznos",
+    "zip": 78045
+  },
+  {
+    "id": "AVwclwNUkufWRAb5w29o",
+    "city": "Plano",
+    "latitude": 33.027523,
+    "longitude": -96.792435,
+    "name": "Chipotle Mexican Grill",
+    "zip": 75093
+  },
+  {
+    "id": "AVzA95C8-gnIPe8DSfU3",
+    "city": "Bedford",
+    "latitude": 32.851979,
+    "longitude": -97.112705,
+    "name": "Jack in the Box",
+    "zip": 76021
+  },
+  {
+    "id": "AVwdOZ_G_7pvs4fz3mRV",
+    "city": "Bedford",
+    "latitude": 32.83380092,
+    "longitude": -97.13296952,
+    "name": "McDonald's",
+    "zip": 76022
+  },
+  {
+    "id": "AVwc_EUS_7pvs4fz1DOE",
+    "city": "Arlington",
+    "latitude": 32.6592,
+    "longitude": -97.1333,
+    "name": "Popeyes Chicken & Biscuits",
+    "zip": 76017
+  },
+  {
+    "id": "AVwdYvH3IN2L1WUfvRdw",
+    "city": "McKinney",
+    "latitude": 33.17358,
+    "longitude": -96.70117,
+    "name": "SONIC Drive In",
+    "zip": 75070
+  },
+  {
+    "id": "AVwcsQ00kufWRAb5x_VN",
+    "city": "Denton",
+    "latitude": 33.193975,
+    "longitude": -97.105924,
+    "name": "SONIC Drive In",
+    "zip": 76205
+  },
+  {
+    "id": "AVwdk7lskufWRAb57P_y",
+    "city": "El Paso",
+    "latitude": 31.783593,
+    "longitude": -106.425728,
+    "name": "Jack in the Box",
+    "zip": 79903
+  },
+  {
+    "id": "AV1goygaa4HuVbed7L9o",
+    "city": "El Campo",
+    "latitude": 29.180916,
+    "longitude": -96.260904,
+    "name": "Jack in the Box",
+    "zip": 77437
+  },
+  {
+    "id": "AVwc47yyIN2L1WUfqACv",
+    "city": "Denton",
+    "latitude": 33.231239,
+    "longitude": -97.135454,
+    "name": "Jack in the Box",
+    "zip": 76201
+  },
+  {
+    "id": "AVwckqs0_7pvs4fzwmF4",
+    "city": "Del Rio",
+    "latitude": 29.393735,
+    "longitude": -100.904407,
+    "name": "Jack in the Box",
+    "zip": 78840
+  },
+  {
+    "id": "AVwdlimUByjofQCxqkt6",
+    "city": "Dallas",
+    "latitude": 32.719725,
+    "longitude": -96.857429,
+    "name": "Jack in the Box",
+    "zip": 75224
+  },
+  {
+    "id": "AVwdN-Op_7pvs4fz3hHl",
+    "city": "Dallas",
+    "latitude": 32.656434,
+    "longitude": -96.749778,
+    "name": "Jack in the Box",
+    "zip": 75241
+  },
+  {
+    "id": "AVwclpXkByjofQCxf9OB",
+    "city": "Dallas",
+    "latitude": 32.68651,
+    "longitude": -96.790379,
+    "name": "Jack in the Box",
+    "zip": 75216
+  },
+  {
+    "id": "AVwckCvjByjofQCxfqBx",
+    "city": "Dallas",
+    "latitude": 32.810566,
+    "longitude": -96.821071,
+    "name": "Jack in the Box",
+    "zip": 75219
+  },
+  {
+    "id": "AVwd-X1kByjofQCxuKm4",
+    "city": "Dallas",
+    "latitude": 32.909886,
+    "longitude": -96.80487,
+    "name": "Jack in the Box",
+    "zip": 75230
+  },
+  {
+    "id": "AVwdo5m0_7pvs4fz73Zi",
+    "city": "Dallas",
+    "latitude": 32.762352,
+    "longitude": -96.857104,
+    "name": "Jack in the Box",
+    "zip": 75208
+  },
+  {
+    "id": "AVwdJViNIN2L1WUfsrF6",
+    "city": "Dallas",
+    "latitude": 32.932475,
+    "longitude": -96.80402,
+    "name": "Jack in the Box",
+    "zip": 75240
+  },
+  {
+    "id": "AVweeyUiByjofQCxynTH",
+    "city": "Dallas",
+    "latitude": 32.871869,
+    "longitude": -96.763515,
+    "name": "Jack in the Box",
+    "zip": 75231
+  },
+  {
+    "id": "AVwcsird_7pvs4fzx-TR",
+    "city": "Burleson",
+    "latitude": 32.541683,
+    "longitude": -97.330671,
+    "name": "Jack in the Box",
+    "zip": 76028
+  },
+  {
+    "id": "AVwd3zk9IN2L1WUfz8vW",
+    "city": "Bryan",
+    "latitude": 30.644282,
+    "longitude": -96.354378,
+    "name": "Jack in the Box",
+    "zip": 77802
+  },
+  {
+    "id": "AVwenNZiIN2L1WUf6i-S",
+    "city": "Brookshire",
+    "latitude": 29.777608,
+    "longitude": -95.950863,
+    "name": "Jack in the Box",
+    "zip": 77423
+  },
+  {
+    "id": "AVwd-VV4_7pvs4fz-6hb",
+    "city": "Austin",
+    "latitude": 30.329177,
+    "longitude": -97.658348,
+    "name": "Jack in the Box",
+    "zip": 78724
+  },
+  {
+    "id": "AVweLKf4IN2L1WUf2o0n",
+    "city": "Austin",
+    "latitude": 30.356305,
+    "longitude": -97.730433,
+    "name": "Jack in the Box",
+    "zip": 78757
+  },
+  {
+    "id": "AVzA-C63-gnIPe8DSfdC",
+    "city": "Austin",
+    "latitude": 30.387863,
+    "longitude": -97.647626,
+    "name": "Jack in the Box",
+    "zip": 78754
+  },
+  {
+    "id": "AVweCBUVByjofQCxurCR",
+    "city": "Dallas",
+    "latitude": 32.998551,
+    "longitude": -96.828584,
+    "name": "Jack in the Box",
+    "zip": 75287
+  },
+  {
+    "id": "AVwc1vFDByjofQCxiwZU",
+    "city": "Carrollton",
+    "latitude": 32.9714,
+    "longitude": -96.8893,
+    "name": "SONIC Drive In",
+    "zip": 75006
+  },
+  {
+    "id": "AVwc74gg_7pvs4fz0icM",
+    "city": "Carrollton",
+    "latitude": 33.02374752,
+    "longitude": -96.88556406,
+    "name": "KFC",
+    "zip": 75007
+  },
+  {
+    "id": "AVwc74gg_7pvs4fz0icM",
+    "city": "Carrollton",
+    "latitude": 33.02374752,
+    "longitude": -96.88556406,
+    "name": "KFC",
+    "zip": 75007
+  },
+  {
+    "id": "AVzA94VcFcQ3k02bBaAR",
+    "city": "El Paso",
+    "latitude": 31.79896,
+    "longitude": -106.39493,
+    "name": "Quiznos",
+    "zip": 79925
+  },
+  {
+    "id": "AVwdMb0t_7pvs4fz3QhX",
+    "city": "Garland",
+    "latitude": 32.91589,
+    "longitude": -96.65041,
+    "name": "El Pollo Regio",
+    "zip": 75042
+  },
+  {
+    "id": "AVwdAGDNkufWRAb51Rtz",
+    "city": "Dallas",
+    "latitude": 32.805002,
+    "longitude": -96.81357,
+    "name": "7-Eleven",
+    "zip": 75219
+  },
+  {
+    "id": "AVwcgtLzByjofQCxfCD-",
+    "city": "Dallas",
+    "latitude": 32.78136,
+    "longitude": -96.80539,
+    "name": "McDonald's",
+    "zip": 75202
+  },
+  {
+    "id": "AVwcucMOIN2L1WUfoM6V",
+    "city": "Dallas",
+    "latitude": 32.809238,
+    "longitude": -96.684639,
+    "name": "Sonic",
+    "zip": 75228
+  },
+  {
+    "id": "AVwddTYzByjofQCxpU2W",
+    "city": "Dallas",
+    "latitude": 32.82635,
+    "longitude": -96.87129,
+    "name": "McDonald's",
+    "zip": 75247
+  },
+  {
+    "id": "AVwdXVJ6_7pvs4fz5Hny",
+    "city": "Dallas",
+    "latitude": 32.647333,
+    "longitude": -96.943384,
+    "name": "McDonald's",
+    "zip": 75249
+  }
+]
