@@ -3,7 +3,6 @@ package com.vinsguru.redisson.test;
 import com.vinsguru.redisson.test.dto.Student;
 import org.junit.jupiter.api.Test;
 import org.redisson.api.RBucketReactive;
-import org.redisson.codec.JsonJacksonCodec;
 import org.redisson.codec.TypedJsonJacksonCodec;
 import reactor.core.publisher.Mono;
 import reactor.test.StepVerifier;

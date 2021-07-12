@@ -4,7 +4,6 @@ import org.junit.jupiter.api.Test;
 import org.redisson.api.DeletedObjectListener;
 import org.redisson.api.ExpiredObjectListener;
 import org.redisson.api.RBucketReactive;
-import org.redisson.api.RMapReactive;
 import org.redisson.client.codec.StringCodec;
 import reactor.core.publisher.Mono;
 import reactor.test.StepVerifier;

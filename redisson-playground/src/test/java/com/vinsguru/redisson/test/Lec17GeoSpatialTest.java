@@ -9,7 +9,6 @@ import org.redisson.api.GeoUnit;
 import org.redisson.api.RGeoReactive;
 import org.redisson.api.RMapReactive;
 import org.redisson.api.geo.GeoSearchArgs;
-import org.redisson.api.geo.OptionalGeoSearch;
 import org.redisson.codec.TypedJsonJacksonCodec;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
