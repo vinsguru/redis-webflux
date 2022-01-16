@@ -53,10 +53,10 @@ public class Lec14TransactionTest extends BaseTest {
         RBucketReactive<Long> user2Balance = transaction.getBucket("user:2:balance", LongCodec.INSTANCE);
         this.transfer(user1Balance, user2Balance, 50)
                 .thenReturn(0)
-             //   .map(i -> (5 / i)) // some error
+                .map(i -> (5 / i)) // some error
                 .then(transaction.commit())
                 .doOnError(System.out::println)
-                .doOnError(ex -> transaction.rollback())
+                .onErrorResume(ex -> transaction.rollback())
                 .subscribe();
         sleep(1000);
     }
