@@ -8,16 +8,22 @@
     <artifactId>redisson-playground</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+        <redisson.version>3.34.1</redisson.version>
+        <lombok.version>1.18.34</lombok.version>
+        <junit.version>5.10.3</junit.version>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.redisson</groupId>
             <artifactId>redisson</artifactId>
-            <version>3.23.5</version>
+            <version>${redisson.version}</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.20</version>
+            <version>${lombok.version}</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -28,7 +34,7 @@
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-engine</artifactId>
-            <version>5.4.2</version>
+            <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
