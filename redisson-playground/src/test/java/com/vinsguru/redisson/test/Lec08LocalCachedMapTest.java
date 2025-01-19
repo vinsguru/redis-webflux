@@ -4,9 +4,9 @@ import com.vinsguru.redisson.test.config.RedissonConfig;
 import com.vinsguru.redisson.test.dto.Student;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
-import org.redisson.api.LocalCachedMapOptions;
 import org.redisson.api.RLocalCachedMap;
 import org.redisson.api.RedissonClient;
+import org.redisson.api.options.LocalCachedMapOptions;
 import org.redisson.codec.TypedJsonJacksonCodec;
 import reactor.core.publisher.Flux;
 
@@ -22,15 +22,12 @@ public class Lec08LocalCachedMapTest extends BaseTest {
         RedissonConfig config = new RedissonConfig();
         RedissonClient redissonClient = config.getClient();
 
-        LocalCachedMapOptions<Integer, Student> mapOptions = LocalCachedMapOptions.<Integer, Student>defaults()
-                .syncStrategy(LocalCachedMapOptions.SyncStrategy.NONE)
+        LocalCachedMapOptions<Integer, Student> mapOptions = LocalCachedMapOptions.<Integer, Student>name("students")
+                .codec(new TypedJsonJacksonCodec(Integer.class, Student.class))
+                .syncStrategy(LocalCachedMapOptions.SyncStrategy.UPDATE)
                 .reconnectionStrategy(LocalCachedMapOptions.ReconnectionStrategy.CLEAR);
 
-        this.studentsMap = redissonClient.getLocalCachedMap(
-                "students",
-                new TypedJsonJacksonCodec(Integer.class, Student.class),
-                mapOptions
-        );
+        this.studentsMap = redissonClient.getLocalCachedMap(mapOptions);
     }
 
     @Test

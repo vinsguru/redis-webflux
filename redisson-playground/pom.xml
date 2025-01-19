@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <redisson.version>3.34.1</redisson.version>
+        <redisson.version>3.43.0</redisson.version>
         <lombok.version>1.18.36</lombok.version>
         <junit.version>5.11.3</junit.version>
     </properties>
